@@ -1,8 +1,8 @@
 {
     "name": "xcode-theme-for-vscode",
-    "displayName": "Xcode theme for VS Code",
+    "displayName": "Het's Xcode theme for VS Code",
     "description": "",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "engines": {
         "vscode": "^1.70.0"
     },
@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Xcode Theme For VS Code",
+                "label": "Het's Xcode Theme For VS Code",
                 "uiTheme": "vs-dark",
                 "path": "./themes/color-theme.json"
             }
@@ -20,7 +20,7 @@
         "iconThemes": [
             {
                 "id": "xcode-icon-theme-for-vs-code",
-                "label": "Xcode File Icons For VS Code",
+                "label": "Het's Xcode File Icons For VS Code",
                 "path": "./themes/file-icons-theme.json"
             }
         ]
