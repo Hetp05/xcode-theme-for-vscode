@@ -2,7 +2,7 @@
     "name": "xcode-theme-for-vscode",
     "displayName": "Xcode theme for VS Code",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.3.0",
     "engines": {
         "vscode": "^1.70.0"
     },
@@ -15,6 +15,13 @@
                 "label": "Xcode Theme For VS Code",
                 "uiTheme": "vs-dark",
                 "path": "./themes/color-theme.json"
+            }
+        ],
+        "iconThemes": [
+            {
+                "id": "xcode-icon-theme-for-vs-code",
+                "label": "Xcode File Icons For VS Code",
+                "path": "./themes/file-icons-theme.json"
             }
         ]
     }
