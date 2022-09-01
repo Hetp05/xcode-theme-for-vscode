@@ -2,8 +2,9 @@
     "name": "xcode-theme-for-vscode",
     "displayName": "Het's Xcode theme for VS Code",
     "description": "",
-    "version": "0.4.1",
+    "version": "0.5.0",
     "repository": {"url": "https://github.com/Hetp05/xcode-theme-for-vscode"},
+    "icon": "assets/e27b1cf72287e89bdcab3c24fe6db070_1620946793756_1024x1024x32.png",
     "engines": {
         "vscode": "^1.70.0"
     },
