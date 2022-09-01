@@ -9,6 +9,42 @@
     "_folder-ex": {
       "iconPath": "./icons/!.svg"
     },
+    "_folder-ttf": {
+      "iconPath": "./icons/ttf-folder.svg"
+    },
+    "_folder-android": {
+      "iconPath": "./icons/android-folder.svg"
+    },
+    "_folder-trash": {
+      "iconPath": "./icons/trash-folder.svg"
+    },
+    "_folder-firebase": {
+      "iconPath": "./icons/firebase-folder.svg"
+    },
+    "_folder-css": {
+      "iconPath": "./icons/css-folder.svg"
+    },
+    "_folder-database": {
+      "iconPath": "./icons/database-folder.svg"
+    },
+    "_folder-other": {
+      "iconPath": "./icons/other-folder.svg"
+    },
+    "_folder-pc": {
+      "iconPath": "./icons/pc-folder.svg"
+    },
+    "_folder-src": {
+      "iconPath": "./icons/src-folder.svg"
+    },
+    "_folder-themes": {
+      "iconPath": "./icons/themes-folder.svg"
+    },
+    "_folder-web": {
+      "iconPath": "./icons/web-folder.svg"
+    },
+    "_folder-xcode": {
+      "iconPath": "./icons/xcode-folder.svg"
+    },
     "_text-file": {
       "iconPath": "./icons/doc.text.svg"
     },
@@ -70,7 +106,24 @@
   "folderNames": {
     "node_modules": "_folder",
     "vendor": "_folder",
-    "assets": "_file-books"
+    "assets": "_file-books",
+    "fonts": "_folder-ttf",
+    "android": "_folder-android",
+      "css": "_folder-css",
+      "styles": "_folder-css",
+      "database": "_folder-database",
+      "other": "_folder-other",
+      "others": "_folder-other",
+      "windows": "_folder-pc",
+      "scr": "_folder-scr",
+      "themes": "_folder-themes",
+      "theme": "_folder-themes",
+      "web": "_folder-web",
+      ".xcworkspace": "_folder-xcode",
+      ".xcodeproj": "_folder-xcode",
+      "trash": "_folder-trash",
+      "bin": "_folder-trash",
+      "firebase": "_folder-firebase"
   },
   "fileExtensions": {
     "c": "_file",

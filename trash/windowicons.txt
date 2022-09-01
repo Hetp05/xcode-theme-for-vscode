@@ -1,0 +1,12 @@
+"chrome-close": {
+			"fontCharacter": "\\2717"
+		},
+		"chrome-maximize": {
+			"fontCharacter": "\\f593"
+		},
+		"chrome-minimize": {
+			"fontCharacter": "\\f2ea"
+		},
+		"chrome-restore": {
+			"fontCharacter": "\\100405"
+		},
