@@ -2,7 +2,8 @@
     "name": "xcode-theme-for-vscode",
     "displayName": "Het's Xcode theme for VS Code",
     "description": "",
-    "version": "0.3.1",
+    "version": "0.4.0",
+    "repository": {"url": "https://github.com/Hetp05/xcode-theme-for-vscode"},
     "engines": {
         "vscode": "^1.70.0"
     },
@@ -17,6 +18,13 @@
                 "path": "./themes/color-theme.json"
             }
         ],
+        "productIconThemes": [
+            {
+              "id": "sf-symbol-icons",
+              "label": "Het's SF Symbols Theme",
+              "path": "./themes/product-theme.json"
+            }
+          ],
         "iconThemes": [
             {
                 "id": "xcode-icon-theme-for-vs-code",

@@ -1,76 +1,135 @@
 {
-    "iconDefinitions": {
-      "_folder": {
-        "iconPath": "./icons/folder.fill.svg"
-      },
-      "_file": {
-        "iconPath": "./icons/doc.svg"
-      },
-      "_folder-ex": {
-        "iconPath": "./icons/!.svg"
-      },
-      "_text-file": {
-        "iconPath": "./icons/doc.text.svg"
-      },
-      "_file-books": {
-        "iconPath": "./icons/books.vertical.fill.svg"
-      },
-      "_file-brakets": {
-        "iconPath": "./icons/brackets.svg"
-      },
-      "_file-dart": {
-        "iconPath": "./icons/dart.svg"
-      },
-      "_file-headphones": {
-        "iconPath": "./icons/headphones.svg"
-      },
-      "_file-html": {
-        "iconPath": "./icons/html.svg"
-      },
-      "_file-info": {
-        "iconPath": "./icons/info.circle.svg"
-      },
-      "_file-iphone": {
-        "iconPath": "./icons/iphone.x.svg"
-      },
-      "_file-hashtag": {
-        "iconPath": "./icons/number.svg"
-      },
-      "_file-pc": {
-        "iconPath": "./icons/pc.svg"
-      },
-      "_file-photo": {
-        "iconPath": "./icons/photos.svg"
-      },
-      "_file-tv": {
-        "iconPath": "./icons/play.tv.svg"
-      },
-      "_file-swift": {
-        "iconPath": "./icons/swift.svg"
-      },
-      "_file-textalign": {
-        "iconPath": "./icons/text.alignleft.svg"
-      },
-      "_file-ttf": {
-        "iconPath": "./icons/textformat.size.svg"
-      },
-      "_file-otf": {
-        "iconPath": "./icons/textformat.svg"
-      },
-      "_file-wifi": {
-        "iconPath": "./icons/wifi-right.svg"
-      },
-      "_file-zip": {
-        "iconPath": "./icons/zip.svg"
-      }
-      
+  "iconDefinitions": {
+    "_folder": {
+      "iconPath": "./icons/folder.fill.svg"
     },
+    "_file": {
+      "iconPath": "./icons/doc.svg"
+    },
+    "_folder-ex": {
+      "iconPath": "./icons/!.svg"
+    },
+    "_text-file": {
+      "iconPath": "./icons/doc.text.svg"
+    },
+    "_file-books": {
+      "iconPath": "./icons/books.vertical.fill.svg"
+    },
+    "_file-brakets": {
+      "iconPath": "./icons/brackets.svg"
+    },
+    "_file-dart": {
+      "iconPath": "./icons/dart.svg"
+    },
+    "_file-headphones": {
+      "iconPath": "./icons/headphones.svg"
+    },
+    "_file-html": {
+      "iconPath": "./icons/html.svg"
+    },
+    "_file-info": {
+      "iconPath": "./icons/info.circle.svg"
+    },
+    "_file-iphone": {
+      "iconPath": "./icons/iphone.x.svg"
+    },
+    "_file-hashtag": {
+      "iconPath": "./icons/number.svg"
+    },
+    "_file-pc": {
+      "iconPath": "./icons/pc.svg"
+    },
+    "_file-photo": {
+      "iconPath": "./icons/photos.svg"
+    },
+    "_file-tv": {
+      "iconPath": "./icons/play.tv.svg"
+    },
+    "_file-swift": {
+      "iconPath": "./icons/swift.svg"
+    },
+    "_file-textalign": {
+      "iconPath": "./icons/text.alignleft.svg"
+    },
+    "_file-ttf": {
+      "iconPath": "./icons/textformat.size.svg"
+    },
+    "_file-otf": {
+      "iconPath": "./icons/textformat.svg"
+    },
+    "_file-wifi": {
+      "iconPath": "./icons/wifi-right.svg"
+    },
+    "_file-zip": {
+      "iconPath": "./icons/zip.svg"
+    }
+    
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderNames": {
+    "node_modules": "_folder",
+    "vendor": "_folder",
+    "assets": "_file-books"
+  },
+  "fileExtensions": {
+    "c": "_file",
+    "go": "_file",
+    "rb": "_file",
+    "ru": "_file",
+    "rs": "_file",
+    "cr": "_file",
+    "py": "_file",
+    "java": "_file",
+    "php": "_file",
+    "js": "_file",
+    "dart": "_file-dart",
+    "es6": "_file",
+    "coffee": "_file",
+    "css": "_file-hashtag",
+    "less": "_file",
+    "sass": "_file",
+    "scss": "_file",
+    "cpp": "_file",
+    "bash": "_file",
+    "md": "_file-info",
+    "textile": "_file-text",
+    "rdoc": "_file",
+    "txt": "_text-file",
+    "json": "_file-brakets",
+    "yml": "_file-ex",
+    "ini": "_file",
+    "html": "_file-html",
+    "conf": "_file",
+    "properties": "_file",
+    "toml": "_file",
+    "xml": "_file-wifi",
+    "log": "_file",
+    "zip": "_file-zip",
+    "ttf": "_file-ttf",
+    "otf": "_file-otf",
+    "swift": "_file-swift",
+    "mp3": "_file-headphones",
+    "mp4": "_file-tv",
+    "png": "_file-photo",
+    "jpeg": "_file-photo"
+  },
+  "fileNames": {
+    "license": "_file",
+    "package.json": "_file-brakets",
+    "gemfile": "_file",
+    "makefile": "_file",
+    "rakefile": "_file",
+    "procfile": "_file",
+    "Dockerfile": "_file"
+  },
+  "dark": {
     "file": "_file",
     "folder": "_folder",
+    "folderExpanded": "_folder",
     "folderNames": {
       "node_modules": "_folder",
-      "vendor": "_folder",
-      "assets": "_file-books"
+      "vendor": "_folder"
     },
     "fileExtensions": {
       "c": "_file",
@@ -83,36 +142,26 @@
       "java": "_file",
       "php": "_file",
       "js": "_file",
-      "dart": "_file-dart",
       "es6": "_file",
       "coffee": "_file",
-      "css": "_file-hashtag",
+      "css": "_file",
       "less": "_file",
       "sass": "_file",
       "scss": "_file",
+      "json": "_file",
       "cpp": "_file",
       "bash": "_file",
-      "md": "_file-info",
-      "textile": "_file-text",
+      "md": "_file",
+      "textile": "_file",
       "rdoc": "_file",
-      "txt": "_text-file",
-      "json": "_file-brakets",
-      "yml": "_file-ex",
+      "txt": "_file",
+      "yml": "_file",
       "ini": "_file",
-      "html": "_file-html",
       "conf": "_file",
       "properties": "_file",
       "toml": "_file",
-      "xml": "_file-wifi",
-      "log": "_file",
-      "zip": "_file-zip",
-      "ttf": "_file-ttf",
-      "otf": "_file-otf",
-      "swift": "_file-swift",
-      "mp3": "_file-headphones",
-      "mp4": "_file-tv",
-      "png": "_file-photo",
-      "jpeg": "_file-photo"
+      "xml": "_file",
+      "log": "_file"
     },
     "fileNames": {
       "license": "_file",
@@ -122,56 +171,6 @@
       "rakefile": "_file",
       "procfile": "_file",
       "Dockerfile": "_file"
-    },
-    "dark": {
-      "file": "_file",
-      "folder": "_folder",
-      "folderExpanded": "_folder",
-      "folderNames": {
-        "node_modules": "_folder",
-        "vendor": "_folder"
-      },
-      "fileExtensions": {
-        "c": "_file",
-        "go": "_file",
-        "rb": "_file",
-        "ru": "_file",
-        "rs": "_file",
-        "cr": "_file",
-        "py": "_file",
-        "java": "_file",
-        "php": "_file",
-        "js": "_file",
-        "es6": "_file",
-        "coffee": "_file",
-        "css": "_file",
-        "less": "_file",
-        "sass": "_file",
-        "scss": "_file",
-        "json": "_file",
-        "cpp": "_file",
-        "bash": "_file",
-        "md": "_file",
-        "textile": "_file",
-        "rdoc": "_file",
-        "txt": "_file",
-        "yml": "_file",
-        "ini": "_file",
-        "conf": "_file",
-        "properties": "_file",
-        "toml": "_file",
-        "xml": "_file",
-        "log": "_file"
-      },
-      "fileNames": {
-        "license": "_file",
-        "package.json": "_file",
-        "gemfile": "_file",
-        "makefile": "_file",
-        "rakefile": "_file",
-        "procfile": "_file",
-        "Dockerfile": "_file"
-      }
     }
   }
-  
+}
