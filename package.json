@@ -2,7 +2,7 @@
     "name": "xcode-theme-for-vscode",
     "displayName": "Het's Xcode theme for VS Code",
     "description": "",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "repository": {
         "url": "https://github.com/Hetp05/xcode-theme-for-vscode",
         "type": "git"
@@ -32,7 +32,7 @@
         "iconThemes": [
             {
                 "id": "xcode-icon-theme-for-vs-code",
-                "label": "Het's Xcode File Icons For VS Code",
+                "label": "Het's Custom File Icons For VS Code",
                 "path": "./themes/file-icons-theme.json"
             }
         ]
