@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.6.2
+
+- updated readme and changelog
+
 ## 0.6.1
 
 - updated changelog + deleted unused readme
@@ -12,13 +16,25 @@ vsc-extension-quickstart.md
 
 - added bunch of folder icons
 
+![folders icon preview](assets/Screenshot-2.png)
+
 ## 0.5.0
 
-- added credits file
+- added [credits page](credits.md)
+
+```txt
+credits.md
+```
 
 ## 0.4.1
 
 - added screen shot and font for product theme
+
+```txt
+themes
+    ┗ fonts
+        ┗ SF-Pro.ttf
+```
 
 ## 0.4.0
 

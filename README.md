@@ -12,5 +12,24 @@ Make your vs code cleaner and more beautiful.
 ## And...
 
 * [Credits](credits.md)
+* [Change Log](CHANGELOG.md)
+
+---
+
+## Change Log
+
+### 0.6.2
+
+- updated readme and changelog
+
+### 0.6.1
+
+- updated changelog + deleted unused readme
+
+```txt
+vsc-extension-quickstart.md
+```
+
+---
 
 **Enjoy Kinder Joy!** #not_sponsored
