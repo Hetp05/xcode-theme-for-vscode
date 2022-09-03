@@ -1,0 +1,48 @@
+{
+    "window.title": "${dirty}${activeEditorShort}",
+    // "breadcrumbs.enabled": true,
+    "files.autoSave": "afterDelay",
+    "editor.autoClosingBrackets": "always",
+    // "editor.minimap.enabled": true,
+
+    // Install "SF Mono" 
+    // https://developers.apple.com/fonts/
+    "editor.fontFamily": "SF Mono",
+
+    // Install "Vibrancy" for tranclusent Side Bar
+    // https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy
+    "vscode_vibrancy.theme": "Light (Only Subbar)",
+
+    // Insatll "psioniq File Header" for File headers
+    // https://marketplace.visualstudio.com/items?itemName=psioniq.psi-header
+    "psi-header.config": {
+        "forceToTop": true,
+        "spacesBetweenYears": false,
+        "blankLinesAfter": 1,
+        "author": "Your name",
+        "authorEmail": " example@icloud.com",
+        "creationDateZero": "asIs",
+        "license": "license.txt"
+    },
+    "psi-header.lang-config": [
+        {
+            "language": "Swift",
+            "begin": "// ",
+            "prefix": "// ",
+            "end": "// ",
+            "modDateFormat": "dd/MM/yyyy",
+        }
+    ],
+    "psi-header.templates": [
+        {
+            "language": "Swift",
+            "template": [
+                "<<Filename>>",
+                "<<Projectname>>",
+                "     ",
+                "Create by <<author>> on dd/MM/yyyy.",
+                "Copyright (c) <<year>> <<author>>. All rights reserved."
+            ],
+        },
+    ]
+}

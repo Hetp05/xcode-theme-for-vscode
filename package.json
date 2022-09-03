@@ -1,13 +1,18 @@
 {
     "name": "xcode-theme-for-vscode",
     "displayName": "Het's Xcode theme for VS Code",
-    "description": "",
-    "version": "0.6.2",
+    "description": "Make your vs code cleaner and more beautiful.",
+    "version": "0.6.3",
     "repository": {
         "url": "https://github.com/Hetp05/xcode-theme-for-vscode",
         "type": "git"
     },
     "icon": "assets/e27b1cf72287e89bdcab3c24fe6db070_1620946793756_1024x1024x32.png",
+    "author": {
+        "email": "hetp0409@icloud.com",
+        "name": "Het",
+        "url": "https://hetp05.github.io/hetp/"
+    },
     "engines": {
         "vscode": "^1.70.0"
     },
