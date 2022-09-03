@@ -2,7 +2,7 @@
 
 Make your vs code cleaner and more beautiful.
 
-![first screenshot](assets/Screenshot-1.png)
+![first screenshot](assets/Screenshot-6.png)
 
 ## File Icons
 
@@ -29,8 +29,6 @@ Copy & paste this into `setting.json`.
     "editor.autoClosingBrackets": "always",
     "editor.minimap.enabled": true,
 
-    // Install "SF Mono" 
-    // https://developers.apple.com/fonts/
     "editor.fontFamily": "SF Mono",
 }
 ```
@@ -45,8 +43,6 @@ Also, copy & paste this into `setting.json`.
 
 ```json
 {
-    // Insatll "psioniq File Header" for File headers
-    // Just replace information like "Your Name".
     "psi-header.config": {
         "forceToTop": true,
         "spacesBetweenYears": false,
@@ -88,7 +84,6 @@ Also, copy & paste this into `setting.json`.
 
 ```json
 {
-    // Install "Vibrancy" for tranclusent Side Bar
     "vscode_vibrancy.theme": "Dark (Only Subbar)",
 }
 ```
@@ -102,9 +97,9 @@ Also, copy & paste this into `setting.json`.
 
 ## Change Log
 
-## 1.0.0
+## 1.0.2
 
-* Finally, the first release is here + added some file icon
+* Finally, the first release is here + added some file icon + fixed some bugs
 
 ![Icons preview](assets/Screenshot-5.png)
 

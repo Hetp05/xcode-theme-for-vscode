@@ -1,8 +1,8 @@
 # Change Log
 
-## 1.0.0
+## 1.0.2
 
-* Finally, the first release is here + added some file icon
+* Finally, the first release is here + added some file icon + fixed some bugs
 
 ![Icons preview](assets/Screenshot-5.png)
 
