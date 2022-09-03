@@ -45,6 +45,9 @@
     "_folder-xcode": {
       "iconPath": "./icons/xcode-folder.svg"
     },
+    "_folder-ios": {
+      "iconPath": "./icons/ios-folder.svg"
+    },
     "_text-file": {
       "iconPath": "./icons/doc.text.svg"
     },
@@ -53,6 +56,27 @@
     },
     "_file-brakets": {
       "iconPath": "./icons/brackets.svg"
+    },
+    "_file-docx": {
+      "iconPath": "./icons/docx-file.svg"
+    },
+    "_file-excel": {
+      "iconPath": "./icons/execl.svg"
+    },
+    "_file-markdown": {
+      "iconPath": "./icons/markdown.svg"
+    },
+    "_file-package": {
+      "iconPath": "./icons/package.svg"
+    },
+    "_file-pdf": {
+      "iconPath": "./icons/pdf.svg"
+    },
+    "_file-svg": {
+      "iconPath": "./icons/purple-svg.svg"
+    },
+    "_file-vsix": {
+      "iconPath": "./icons/vsix.svg"
     },
     "_file-dart": {
       "iconPath": "./icons/dart.svg"
@@ -109,21 +133,23 @@
     "assets": "_file-books",
     "fonts": "_folder-ttf",
     "android": "_folder-android",
-      "css": "_folder-css",
-      "styles": "_folder-css",
-      "database": "_folder-database",
-      "other": "_folder-other",
-      "others": "_folder-other",
-      "windows": "_folder-pc",
-      "scr": "_folder-scr",
-      "themes": "_folder-themes",
-      "theme": "_folder-themes",
-      "web": "_folder-web",
-      ".xcworkspace": "_folder-xcode",
-      ".xcodeproj": "_folder-xcode",
-      "trash": "_folder-trash",
-      "bin": "_folder-trash",
-      "firebase": "_folder-firebase"
+    "css": "_folder-css",
+    "styles": "_folder-css",
+    "database": "_folder-database",
+    "other": "_folder-other",
+    "others": "_folder-other",
+    "ios": "_folder-ios",
+    "windows": "_folder-pc",
+    "scr": "_folder-scr",
+    "themes": "_folder-themes",
+    "theme": "_folder-themes",
+    "web": "_folder-web",
+    ".xcworkspace": "_folder-xcode",
+    ".xcodeproj": "_folder-xcode",
+    "trash": "_folder-trash",
+    "bin": "_folder-trash",
+    "asserts": "_file-books",
+    "firebase": "_folder-firebase"
   },
   "fileExtensions": {
     "c": "_file",
@@ -145,7 +171,7 @@
     "scss": "_file",
     "cpp": "_file",
     "bash": "_file",
-    "md": "_file-info",
+    "md": "_file-markdown",
     "textile": "_file-text",
     "rdoc": "_file",
     "txt": "_text-file",
@@ -156,7 +182,7 @@
     "conf": "_file",
     "properties": "_file",
     "toml": "_file",
-    "xml": "_file-wifi",
+    "iml": "_file-wifi",
     "log": "_file",
     "zip": "_file-zip",
     "ttf": "_file-ttf",
@@ -165,14 +191,23 @@
     "mp3": "_file-headphones",
     "mp4": "_file-tv",
     "png": "_file-photo",
+    "docx": "_file-docx",
+    "pdf": "_file-pdf",
+    "svg": "_file-svg",
+    "xlsx": "_file-excel",
+    "vsix": "_file-vsix",
+    "yaml": "_folder-ex",
     "jpeg": "_file-photo"
   },
   "fileNames": {
     "license": "_file",
-    "package.json": "_file-brakets",
+    "package.json": "_file-package",
     "gemfile": "_file",
     "makefile": "_file",
     "rakefile": "_file",
+    "README.md": "_file-info",
+    "readme.md": "_file-info",
+    "package": "_file-package",
     "procfile": "_file",
     "Dockerfile": "_file"
   },
@@ -208,7 +243,6 @@
       "textile": "_file",
       "rdoc": "_file",
       "txt": "_file",
-      "yml": "_file",
       "ini": "_file",
       "conf": "_file",
       "properties": "_file",

@@ -102,18 +102,14 @@ Also, copy & paste this into `setting.json`.
 
 ## Change Log
 
+## 1.0.0
+
+* Finally, the first release is here + added some file icon
+
+![Icons preview](assets/Screenshot-5.png)
+
 ### 0.6.2/ 0.6.3
 
-- updated readme and changelog
-
-### 0.6.1
-
-- updated changelog + deleted unused readme
-
-```txt
-vsc-extension-quickstart.md
-```
-
----
+* updated readme and changelog
 
 **Enjoy Kinder Joy!** #not_sponsored
