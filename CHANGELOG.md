@@ -1,5 +1,9 @@
 # Change Log
 
+### 0.6.3
+
+* updated readme preview
+
 ## 1.0.2
 
 * Finally, the first release is here + added some file icon + fixed some bugs

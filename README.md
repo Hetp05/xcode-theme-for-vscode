@@ -33,7 +33,7 @@ Copy & paste this into `setting.json`.
 }
 ```
 
-and extra extensions for more Xcode a like feeling.
+And extra extensions for more Xcode a like feeling.
 
 [psioniq File Header](https://marketplace.visualstudio.com/items?itemName=psioniq.psi-header)
 
@@ -97,14 +97,14 @@ Also, copy & paste this into `setting.json`.
 
 ## Change Log
 
+### 0.6.3
+
+* updated readme preview
+
 ## 1.0.2
 
 * Finally, the first release is here + added some file icon + fixed some bugs
 
 ![Icons preview](assets/Screenshot-5.png)
-
-### 0.6.2/ 0.6.3
-
-* updated readme and changelog
 
 **Enjoy Kinder Joy!** #not_sponsored
