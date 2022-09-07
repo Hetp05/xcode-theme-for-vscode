@@ -26,6 +26,8 @@ themes
 
 ![Preview of SF Pro font](https://www.fontmirror.com/app_public/files/t/1/featured_image/2021/05/featured_8771.jpg)
 
+Copyright © 2022 Apple Inc. All rights reserved.
+
 ---
 
 ## Color/ File Icon Theme

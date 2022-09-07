@@ -1,44 +1,66 @@
 # Change Log
 
-### 0.6.3
+## `1.1.0`
 
-* updated readme preview
+* Updated `package.json`, `credits.md` and `CHANGLOG.md`
 
-## 1.0.2
+* Added `Legel_Disclaimer.txt`
+
+```txt
+* folder
+    ┣ CHANGELOG.md
+    ┣ credits.md
+    ┣ Legel_Disclaimer.txt
+    ┗ README.md
+```
+
+---
+
+## `1.0.2`
 
 * Finally, the first release is here + added some file icon + fixed some bugs
 
 ![Icons preview](assets/Screenshot-5.png)
 
-## 0.6.2/ 0.6.3
+---
 
-* updated readme and changelog
+## `0.6.2/ 0.6.3`
 
-## 0.6.1
+* Updated readme and changelog
 
-* updated changelog + deleted unused readme
+---
+
+## `0.6.1`
+
+* Updated changelog + deleted unused readme
 
 ```txt
 vsc-extension-quickstart.md
 ```
 
-## 0.6.0
+---
 
-* added bunch of folder icons
+## `0.6.0`
+
+* Added bunch of folder icons
 
 ![folders icon preview](assets/Screenshot-2.png)
 
-## 0.5.0
+---
 
-* added [credits page](credits.md)
+## `0.5.0`
+
+* Added [credits page](credits.md)
 
 ```txt
 credits.md
 ```
 
-## 0.4.1
+---
 
-* added screen shot and font for product theme
+## `0.4.1`
+
+* Added screen shot and font for product theme
 
 ```txt
 themes
@@ -46,14 +68,20 @@ themes
         ┗ SF-Pro.ttf
 ```
 
-## 0.4.0
+---
 
-* added product icon theme
+## `0.4.0`
 
-## 0.3.1
+* Added product icon theme
 
-* updated readme file
+---
 
-## 0.3.0
+## `0.3.1`
 
-* added file icon theme
+* Updated readme file
+
+---
+
+## `0.3.0`
+
+* Added file icon theme

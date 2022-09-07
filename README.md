@@ -92,19 +92,32 @@ Also, copy & paste this into `setting.json`.
 
 * [Credits](credits.md)
 * [Change Log](CHANGELOG.md)
+* [Legal Disclaimer](Legel_Disclaimer.txt)
 
 ---
 
 ## Change Log
 
-### 0.6.3
+### `1.1.0`
 
-* updated readme preview
+* Updated `package.json`, `credits.md` and `CHANGLOG.md`
 
-## 1.0.2
+* Added `Legel_Disclaimer.txt`
+
+```txt
+* folder
+    ┣ CHANGELOG.md
+    ┣ credits.md
+    ┣ Legel_Disclaimer.txt
+    ┗ README.md
+```
+
+### `1.0.2`
 
 * Finally, the first release is here + added some file icon + fixed some bugs
 
 ![Icons preview](assets/Screenshot-5.png)
+
+---
 
 **Enjoy Kinder Joy!** #not_sponsored

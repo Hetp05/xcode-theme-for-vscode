@@ -1,0 +1,10 @@
+"SF Symbols", "Xcode" and "SF Pro Display" Copyright © 2022 Apple Inc. 
+All rights reserved.
+
+"Het's Xcode theme for VS Code" is a fan-made VS Code Extension. We 
+claim no ownership of, nor affiliation with, any of the trademarks 
+or organizations listed above. This website and all associated 
+operations are purely non-profit and educational in nature. We do not 
+sell any product or service.
+
+Last updated September 2022.
