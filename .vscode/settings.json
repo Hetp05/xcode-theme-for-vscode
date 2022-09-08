@@ -41,8 +41,9 @@
                 "<<Projectname>>",
                 "     ",
                 "Create by <<author>> on dd/MM/yyyy.",
-                "Copyright (c) <<year>> <<author>>. All rights reserved."
+                "Copyright © <<year>> <<author>>. All rights reserved."
             ],
         },
-    ]
+    ],
+    "editor.fontSize": 14
 }

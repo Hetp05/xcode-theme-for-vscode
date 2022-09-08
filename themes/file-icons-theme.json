@@ -57,6 +57,9 @@
     "_file-brakets": {
       "iconPath": "./icons/brackets.svg"
     },
+    "_file-legal": {
+      "iconPath": "./icons/legal.svg"
+    },
     "_file-docx": {
       "iconPath": "./icons/docx-file.svg"
     },
@@ -209,6 +212,9 @@
     "readme.md": "_file-info",
     "package": "_file-package",
     "procfile": "_file",
+    "Legal_disclaimer": "_file-legal",
+    "Legal_disclaimer.txt": "_file-legal",
+    "Legal_disclaimer.md": "_file-legal",
     "Dockerfile": "_file"
   },
   "dark": {

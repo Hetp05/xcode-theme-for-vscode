@@ -1,5 +1,11 @@
 # Change Log
 
+## `1.1.1`
+
+![Legal File](assets/Screenshot-7.png)
+
+* Added file icon for `Legal_disclaimer`
+
 ## `1.1.0`
 
 * Updated `package.json`, `credits.md` and `CHANGLOG.md`

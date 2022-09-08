@@ -98,6 +98,12 @@ Also, copy & paste this into `setting.json`.
 
 ## Change Log
 
+### `1.1.1`
+
+![Legal File](assets/Screenshot-7.png)
+
+* Added file icon for `Legal_disclaimer`
+
 ### `1.1.0`
 
 * Updated `package.json`, `credits.md` and `CHANGLOG.md`
@@ -111,12 +117,6 @@ Also, copy & paste this into `setting.json`.
     ┣ Legel_Disclaimer.txt
     ┗ README.md
 ```
-
-### `1.0.2`
-
-* Finally, the first release is here + added some file icon + fixed some bugs
-
-![Icons preview](assets/Screenshot-5.png)
 
 ---
 

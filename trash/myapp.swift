@@ -1,9 +1,9 @@
 // 
-// app.swift
+// myapp.swift
 // Het's Xcode theme for VS Code
 //      
-// Create by Het on 03/09/2022.
-// Copyright (c) 2022 Het. All rights reserved.
+// Create by Your name on dd/MM/yyyy.
+// Copyright © 2022 Your name. All rights reserved.
 // 
 
 import Foundation
