@@ -38,7 +38,7 @@ themes
     ┗ file-icons-theme.json
 ```
 
-[macOS Modern Theme](https://marketplace.visualstudio.com/items?itemName=davidbwaters.macos-modern-theme) VS code extension by [davidbwaters](https://marketplace.visualstudio.com/publishers/davidbwaters)
+[macOS Modern Theme](https://marketplace.visualstudio.com/items?itemName=davidbwaters.macos-modern-theme) VS Code extension by [davidbwaters](https://marketplace.visualstudio.com/publishers/davidbwaters)
 
 Originally symbols created by [Apple](https://developer.apple.com/sf-symbols/).
 
@@ -53,7 +53,7 @@ themes
     ┗ product-theme.json
 ```
 
-VS code extension ["SF Symbols Icon Theme"](https://marketplace.visualstudio.com/items?itemName=j-f1.sf-symbols).
+VS Code extension ["SF Symbols Icon Theme"](https://marketplace.visualstudio.com/items?itemName=j-f1.sf-symbols).
 
 ![Product theme preview](https://github.com/j-f1/sf-symbols-vscode/raw/HEAD/screenshot.png)
 

@@ -1,10 +1,28 @@
 # Change Log
 
+## `1.1.2`
+
+* Updated Xcode like blue and terminal color in  `color-theme`
+
+* Added some extra links to `README`
+
+* Renamed `Legal_Disclaimer.txt` to `Legal-Disclaimer.txt`
+
+* Added icon for folder named "Products" to `file-icons-theme.json`
+
+```txt
+themes
+    ┣ color-theme.json
+    ┗  file-icons-theme.json
+README.md
+Legal-Disclaimer.txt
+```
+
 ## `1.1.1`
 
-![Legal File](assets/Screenshot-7.png)
-
 * Added file icon for `Legal_disclaimer`
+
+![Legal File](assets/Screenshot-7.png)
 
 ## `1.1.0`
 

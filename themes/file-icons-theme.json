@@ -152,6 +152,10 @@
     "trash": "_folder-trash",
     "bin": "_folder-trash",
     "asserts": "_file-books",
+    "product": "_folder-xcode",
+    "Product": "_folder-xcode",
+    "products": "_folder-xcode",
+    "Products": "_folder-xcode",
     "firebase": "_folder-firebase"
   },
   "fileExtensions": {
@@ -215,6 +219,8 @@
     "Legal_disclaimer": "_file-legal",
     "Legal_disclaimer.txt": "_file-legal",
     "Legal_disclaimer.md": "_file-legal",
+    "Legal-disclaimer.txt": "_file-legal",
+    "Legal-disclaimer.md": "_file-legal",
     "Dockerfile": "_file"
   },
   "dark": {

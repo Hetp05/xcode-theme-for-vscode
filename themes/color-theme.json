@@ -3,14 +3,12 @@
 	"type": "dark",
 	"colors": {
 	"activityBar.activeBorder": "#101010",
-    	"activityBar.background": "#353333",
-    	"activityBar.border": "#101010",
+    "activityBar.background": "#353333",
+    "activityBar.border": "#101010",
     "activityBar.foreground": "#447aff",
     "activityBar.inactiveForeground": "#c2c0c0",
-    "activityBarBadge.background": "#3b69e2",
     "badge.background": "#3b69e2",
     "badge.foreground": "#ffffff",
-    "button.background": "#447aff",
     "button.foreground": "#ffffff",
     "button.hoverBackground": "#447aff",
     "descriptionForeground": "#777777",
@@ -64,7 +62,6 @@
     "editorWarning.border": "#ff000000",
     "editorWarning.foreground": "#ffc501",
     "editorWidget.background": "#2c2c2b",
-    "focusBorder": "#3675a2",
     "foreground": "#a3a2a2",
     "input.background": "#403e3e",
     "input.border": "#515151",
@@ -92,7 +89,6 @@
     "sideBarSectionHeader.border": "#f9f5f500",
     "sideBarSectionHeader.foreground": "#b4b3b3",
     "sideBarTitle.foreground": "#7d7c7c",
-    "statusBar.background": "#403e3e",
     "statusBar.border": "#101010",
     "statusBar.debuggingBackground": "#403e3e",
     "statusBar.foreground": "#b4b3b3",
@@ -117,8 +113,36 @@
     "titleBar.border": "#101010",
     "titleBar.inactiveBackground": "#403e3e",
     "titleBar.inactiveForeground": "#acacab",
-    "widget.shadow": "#403e3e"
+	"widget.shadow": "#403e3e",
+
+	// Xcode Blue
+	"focusBorder": "#0A84FF",
+    "progressBar.background": "#0A84FF",
+    "activityBarBadge.background": "#0A84FF",
+    "statusBar.background": "#0A84FF",
+    "button.background": "#1568E5",
+    "notificationsInfoIcon.foreground": "#1568E5",
+    "editorLink.activeForeground": "#2997ff",
+
+	// Xcode Terminal
+	"terminal.ansiBlack": "#1F2024",
+	"terminal.ansiBlue": "#007AFF",
+	"terminal.ansiBrightBlack": "#8E8E93",
+	"terminal.ansiBrightBlue": "#007AFF",
+	"terminal.ansiBrightCyan": "#55BEF0",
+	"terminal.ansiBrightGreen": "#28CD41",
+	"terminal.ansiBrightMagenta": "#AF52DE",
+	"terminal.ansiBrightRed": "#FF3B30",
+	"terminal.ansiBrightWhite": "#FFFFFF",
+	"terminal.ansiBrightYellow": "#FFFF00",
+	"terminal.ansiCyan": "#59ADC4",
+	"terminal.ansiGreen": "#28CD41",
+	"terminal.ansiMagenta": "#AF52DE",
+	"terminal.ansiRed": "#FF3B30",
+	"terminal.ansiWhite": "#D9D9D9",
+	"terminal.ansiYellow": "#FFCC00"
 	},
+
 	"tokenColors": [
 		{
 			"scope": [

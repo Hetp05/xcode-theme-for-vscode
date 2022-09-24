@@ -1,12 +1,12 @@
-# The Xcode like theme for VS Code
+# Xcode like theme for VS Code
 
-Make your vs code cleaner and more beautiful.
+Make your VS Code cleaner and more beautiful.
 
 ![first screenshot](assets/Screenshot-6.png)
 
 ## File Icons
 
-![File Icon preview](assets/Screenshot-4.png)
+![File Icon preview](assets/Screenshot-8.png)
 
 ## Folder Icons
 
@@ -88,6 +88,8 @@ Also, copy & paste this into `setting.json`.
 }
 ```
 
+---
+
 ## And
 
 * [Credits](credits.md)
@@ -96,26 +98,42 @@ Also, copy & paste this into `setting.json`.
 
 ---
 
+* [Marketplace (download)](https://github.com/Hetp05/xcode-theme-for-vscode/releases/download/extension/xcode-theme-for-vscode-1.0.2.vsix)
+* [Repository (Github)](https://github.com/Hetp05/xcode-theme-for-vscode.git)
+* [Het (creator)](https://github.com/Hetp05)
+
+---
+
 ## Change Log
+
+### `1.1.2`
+
+* Updated Xcode like blue and terminal color in  `color-theme`
+
+* Added some extra links to `README`
+
+* Renamed `Legal_Disclaimer.txt` to `Legal-Disclaimer.txt`
+
+* Added icon for folder named "Products" to `file-icons-theme.json`
+
+```txt
+themes
+    ┣ color-theme.json
+    ┗  file-icons-theme.json
+README.md
+Legal-Disclaimer.txt
+```
 
 ### `1.1.1`
 
-![Legal File](assets/Screenshot-7.png)
+* Updated Xcode like blue color `color-theme`
 
-* Added file icon for `Legal_disclaimer`
-
-### `1.1.0`
-
-* Updated `package.json`, `credits.md` and `CHANGLOG.md`
-
-* Added `Legel_Disclaimer.txt`
+* Added some extra links to `README`
 
 ```txt
-* folder
-    ┣ CHANGELOG.md
-    ┣ credits.md
-    ┣ Legel_Disclaimer.txt
-    ┗ README.md
+themes
+    ┗ color-theme.json
+README.md
 ```
 
 ---
