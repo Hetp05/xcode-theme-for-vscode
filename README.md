@@ -33,60 +33,7 @@ Copy & paste this into `setting.json`.
 }
 ```
 
-And extra extensions for more Xcode a like feeling.
-
-[psioniq File Header](https://marketplace.visualstudio.com/items?itemName=psioniq.psi-header)
-
-![Header extension preview]
-
-Also, copy & paste this into `setting.json`.
-
-```json
-{
-    "psi-header.config": {
-        "forceToTop": true,
-        "spacesBetweenYears": false,
-        "blankLinesAfter": 1,
-        "author": "Your name",
-        "authorEmail": " example@icloud.com",
-        "creationDateZero": "asIs",
-        "license": "license.txt"
-    },
-    "psi-header.lang-config": [
-        {
-            "language": "Swift",
-            "begin": "// ",
-            "prefix": "// ",
-            "end": "// ",
-            "modDateFormat": "dd/MM/yyyy",
-        }
-    ],
-    "psi-header.templates": [
-        {
-            "language": "Swift",
-            "template": [
-                "<<Filename>>",
-                "<<Projectname>>",
-                "     ",
-                "Create by <<author>> on dd/MM/yyyy.",
-                "Copyright (c) <<year>> <<author>>. All rights reserved."
-            ],
-        },
-    ]
-}
-```
-
-Also, copy & paste this into `setting.json`.
-
-[Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy)
-
-![vibrancy extension preview](https://github.com/illixion/vscode-vibrancy-continued/blob/master/theme-noir-et-blanc.jpg?raw=true)
-
-```json
-{
-    "vscode_vibrancy.theme": "Dark (Only Subbar)",
-}
-```
+And [extra extensions](extra-tweaks.md) for more Xcode a like feeling.
 
 ---
 
@@ -95,6 +42,7 @@ Also, copy & paste this into `setting.json`.
 * [Credits](credits.md)
 * [Change Log](CHANGELOG.md)
 * [Legal Disclaimer](Legel_Disclaimer.txt)
+* [Extra Tweaks](extra-tweaks.md)
 
 ---
 
@@ -105,6 +53,17 @@ Also, copy & paste this into `setting.json`.
 ---
 
 ## Change Log
+
+### `1.1.3`
+
+* Added file called `extra-tweaks.md`
+
+* Removed some extra links to `README`
+
+```txt
+extra-tweaks.md
+README.md
+```
 
 ### `1.1.2`
 
@@ -122,18 +81,6 @@ themes
     ┗  file-icons-theme.json
 README.md
 Legal-Disclaimer.txt
-```
-
-### `1.1.1`
-
-* Updated Xcode like blue color `color-theme`
-
-* Added some extra links to `README`
-
-```txt
-themes
-    ┗ color-theme.json
-README.md
 ```
 
 ---

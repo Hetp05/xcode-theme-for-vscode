@@ -1,5 +1,16 @@
 # Change Log
 
+## `1.1.3`
+
+* Added file called `extra-tweaks.md`
+
+* Removed some extra links to `README`
+
+```txt
+extra-tweaks.md
+README.md
+```
+
 ## `1.1.2`
 
 * Updated Xcode like blue and terminal color in  `color-theme`
