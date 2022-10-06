@@ -54,6 +54,33 @@ And [extra extensions](extra-tweaks.md) for more Xcode a like feeling.
 
 ## Change Log
 
+### `1.1.4`
+
+* Added file called `screenshot-9`
+
+* Updated comments color `#6A9955` to `#73A74E`
+
+* Added four more file icons for `favicon.png`, `LICENSE`, `.mp4` and `todo`
+
+* Updated an image in `credits.md`
+
+* Added bunch of new keywords to `package.json`
+
+```txt
+assets
+    ┗ Screenshot-9.png
+themes
+    ┗ icons
+        ┣ favicon.svg
+        ┣ license.svg
+        ┣ mp4.svg
+        ┗ todo.svg
+    ┣ color-theme.json
+    ┗ file-icons-theme.json
+credits.md
+package.json
+```
+
 ### `1.1.3`
 
 * Added file called `extra-tweaks.md`
@@ -63,24 +90,6 @@ And [extra extensions](extra-tweaks.md) for more Xcode a like feeling.
 ```txt
 extra-tweaks.md
 README.md
-```
-
-### `1.1.2`
-
-* Updated Xcode like blue and terminal color in  `color-theme`
-
-* Added some extra links to `README`
-
-* Renamed `Legal_Disclaimer.txt` to `Legal-Disclaimer.txt`
-
-* Added icon for folder named "Products" to `file-icons-theme.json`
-
-```txt
-themes
-    ┣ color-theme.json
-    ┗  file-icons-theme.json
-README.md
-Legal-Disclaimer.txt
 ```
 
 ---

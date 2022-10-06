@@ -2,7 +2,7 @@
     "name": "xcode-theme-for-vscode",
     "displayName": "Het's Xcode theme for VS Code",
     "description": "Make your VS Code cleaner and more beautiful.",
-    "version": "1.1.3",
+    "version": "1.1.4",
     "repository": {
         "type": "git",
         "url": "https://github.com/Hetp05/xcode-theme-for-vscode.git"
@@ -22,6 +22,11 @@
         "sf-Symbols",
         "xcode",
         "icon-theme",
+        "apple",
+        "x-code",
+        "macbook",
+        "macos",
+        "mac",
         "customization"
     ],
     "extensionKind": [

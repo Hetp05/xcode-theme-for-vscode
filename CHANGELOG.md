@@ -1,5 +1,36 @@
 # Change Log
 
+> Never write "Updated `CHANGELOG.md`".
+
+## `1.1.4`
+
+* Added file called `screenshot-9`
+
+![screen 9](assets/Screenshot-9.png)
+
+* Updated comments color `#6A9955` to `#73A74E`
+
+* Added four more file icons for `favicon.png`, `LICENSE`, `.mp4` and `todo`
+
+* Updated an image in `credits.md`
+
+* Added bunch of new keywords to `package.json`
+
+```txt
+assets
+    ┗ Screenshot-9.png
+themes
+    ┗ icons
+        ┣ favicon.svg
+        ┣ license.svg
+        ┣ mp4.svg
+        ┗ todo.svg
+    ┣ color-theme.json
+    ┗ file-icons-theme.json
+credits.md
+package.json
+```
+
 ## `1.1.3`
 
 * Added file called `extra-tweaks.md`

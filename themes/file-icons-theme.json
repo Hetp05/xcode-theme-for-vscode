@@ -54,6 +54,15 @@
     "_file-books": {
       "iconPath": "./icons/books.vertical.fill.svg"
     },
+    "_file-license": {
+      "iconPath": "./icons/licence.svg"
+    },
+    "_file-favicon": {
+      "iconPath": "./icons/favicon.svg"
+    },
+    "_file-todo": {
+      "iconPath": "./icons/todo.svg"
+    },
     "_file-brakets": {
       "iconPath": "./icons/brackets.svg"
     },
@@ -106,7 +115,7 @@
       "iconPath": "./icons/photos.svg"
     },
     "_file-tv": {
-      "iconPath": "./icons/play.tv.svg"
+      "iconPath": "./icons/mp4.svg"
     },
     "_file-swift": {
       "iconPath": "./icons/swift.svg"
@@ -207,7 +216,27 @@
     "jpeg": "_file-photo"
   },
   "fileNames": {
-    "license": "_file",
+    "license": "_file-license",
+    "LICENSE": "_file-license",
+    "license.md": "_file-license",
+    "LICENSE.md": "_file-license",
+    "license.txt": "_file-license",
+    "LICENSE.txt": "_file-license",
+    "todo": "_file-todo",
+    "TODO": "_file-todo",
+    "todo.md": "_file-todo",
+    "TODO.md": "_file-todo",
+    "todo.txt": "_file-todo",
+    "TODO.txt": "_file-todo",
+    "to-do": "_file-todo",
+    "TO-DO": "_file-todo",
+    "to-do.md": "_file-todo",
+    "TO-DO.md": "_file-todo",
+    "to-do.txt": "_file-todo",
+    "TO-DO.txt": "_file-todo",
+    "favicon.png": "_file-favicon",
+    "favicon.jpeg": "_file-favicon",
+    "favicon.svg": "_file-favicon",
     "package.json": "_file-package",
     "gemfile": "_file",
     "makefile": "_file",

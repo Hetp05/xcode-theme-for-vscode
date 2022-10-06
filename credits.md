@@ -24,7 +24,7 @@ themes
 
 "[SF Pro Display Light](https://developers.apple.com/fonts/)" font by Apple.
 
-![Preview of SF Pro font](https://www.fontmirror.com/app_public/files/t/1/featured_image/2021/05/featured_8771.jpg)
+![Preview of SF Pro font](assets/Screenshot-9.png)
 
 Copyright © 2022 Apple Inc. All rights reserved.
 
