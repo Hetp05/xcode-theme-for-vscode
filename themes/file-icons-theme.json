@@ -1,73 +1,16 @@
 {
   "iconDefinitions": {
-    "_folder": {
-      "iconPath": "./icons/folder.fill.svg"
-    },
     "_file": {
       "iconPath": "./icons/doc.svg"
-    },
-    "_folder-ex": {
-      "iconPath": "./icons/!.svg"
-    },
-    "_folder-ttf": {
-      "iconPath": "./icons/ttf-folder.svg"
-    },
-    "_folder-android": {
-      "iconPath": "./icons/android-folder.svg"
-    },
-    "_folder-trash": {
-      "iconPath": "./icons/trash-folder.svg"
-    },
-    "_folder-firebase": {
-      "iconPath": "./icons/firebase-folder.svg"
-    },
-    "_folder-css": {
-      "iconPath": "./icons/css-folder.svg"
-    },
-    "_folder-database": {
-      "iconPath": "./icons/database-folder.svg"
-    },
-    "_folder-other": {
-      "iconPath": "./icons/other-folder.svg"
-    },
-    "_folder-pc": {
-      "iconPath": "./icons/pc-folder.svg"
-    },
-    "_folder-src": {
-      "iconPath": "./icons/src-folder.svg"
-    },
-    "_folder-themes": {
-      "iconPath": "./icons/themes-folder.svg"
-    },
-    "_folder-web": {
-      "iconPath": "./icons/web-folder.svg"
-    },
-    "_folder-xcode": {
-      "iconPath": "./icons/xcode-folder.svg"
-    },
-    "_folder-ios": {
-      "iconPath": "./icons/ios-folder.svg"
-    },
-    "_text-file": {
-      "iconPath": "./icons/doc.text.svg"
     },
     "_file-books": {
       "iconPath": "./icons/books.vertical.fill.svg"
     },
-    "_file-license": {
-      "iconPath": "./icons/licence.svg"
-    },
-    "_file-favicon": {
-      "iconPath": "./icons/favicon.svg"
-    },
-    "_file-todo": {
-      "iconPath": "./icons/todo.svg"
-    },
     "_file-brakets": {
       "iconPath": "./icons/brackets.svg"
     },
-    "_file-legal": {
-      "iconPath": "./icons/legal.svg"
+    "_file-dart": {
+      "iconPath": "./icons/dart.svg"
     },
     "_file-docx": {
       "iconPath": "./icons/docx-file.svg"
@@ -75,23 +18,11 @@
     "_file-excel": {
       "iconPath": "./icons/execl.svg"
     },
-    "_file-markdown": {
-      "iconPath": "./icons/markdown.svg"
+    "_file-favicon": {
+      "iconPath": "./icons/favicon.svg"
     },
-    "_file-package": {
-      "iconPath": "./icons/package.svg"
-    },
-    "_file-pdf": {
-      "iconPath": "./icons/pdf.svg"
-    },
-    "_file-svg": {
-      "iconPath": "./icons/purple-svg.svg"
-    },
-    "_file-vsix": {
-      "iconPath": "./icons/vsix.svg"
-    },
-    "_file-dart": {
-      "iconPath": "./icons/dart.svg"
+    "_file-hashtag": {
+      "iconPath": "./icons/number.svg"
     },
     "_file-headphones": {
       "iconPath": "./icons/headphones.svg"
@@ -105,17 +36,35 @@
     "_file-iphone": {
       "iconPath": "./icons/iphone.x.svg"
     },
-    "_file-hashtag": {
-      "iconPath": "./icons/number.svg"
+    "_file-legal": {
+      "iconPath": "./icons/legal.svg"
+    },
+    "_file-license": {
+      "iconPath": "./icons/licence.svg"
+    },
+    "_file-markdown": {
+      "iconPath": "./icons/markdown.svg"
+    },
+    "_file-minecraft": {
+      "iconPath": "./icons/minecraft.svg"
+    },
+    "_file-otf": {
+      "iconPath": "./icons/textformat.svg"
+    },
+    "_file-package": {
+      "iconPath": "./icons/package.svg"
     },
     "_file-pc": {
       "iconPath": "./icons/pc.svg"
     },
+    "_file-pdf": {
+      "iconPath": "./icons/pdf.svg"
+    },
     "_file-photo": {
       "iconPath": "./icons/photos.svg"
     },
-    "_file-tv": {
-      "iconPath": "./icons/mp4.svg"
+    "_file-svg": {
+      "iconPath": "./icons/purple-svg.svg"
     },
     "_file-swift": {
       "iconPath": "./icons/swift.svg"
@@ -123,134 +72,190 @@
     "_file-textalign": {
       "iconPath": "./icons/text.alignleft.svg"
     },
+    "_file-todo": {
+      "iconPath": "./icons/todo.svg"
+    },
     "_file-ttf": {
       "iconPath": "./icons/textformat.size.svg"
     },
-    "_file-otf": {
-      "iconPath": "./icons/textformat.svg"
+    "_file-tv": {
+      "iconPath": "./icons/mp4.svg"
+    },
+    "_file-vsix": {
+      "iconPath": "./icons/vsix.svg"
     },
     "_file-wifi": {
       "iconPath": "./icons/wifi-right.svg"
     },
     "_file-zip": {
       "iconPath": "./icons/zip.svg"
+    },
+    "_folder": {
+      "iconPath": "./icons/folder.fill.svg"
+    },
+    "_folder-android": {
+      "iconPath": "./icons/android-folder.svg"
+    },
+    "_folder-css": {
+      "iconPath": "./icons/css-folder.svg"
+    },
+    "_folder-database": {
+      "iconPath": "./icons/database-folder.svg"
+    },
+    "_folder-ex": {
+      "iconPath": "./icons/!.svg"
+    },
+    "_folder-firebase": {
+      "iconPath": "./icons/firebase-folder.svg"
+    },
+    "_folder-ios": {
+      "iconPath": "./icons/ios-folder.svg"
+    },
+    "_folder-other": {
+      "iconPath": "./icons/other-folder.svg"
+    },
+    "_folder-pc": {
+      "iconPath": "./icons/pc-folder.svg"
+    },
+    "_folder-src": {
+      "iconPath": "./icons/src-folder.svg"
+    },
+    "_folder-themes": {
+      "iconPath": "./icons/themes-folder.svg"
+    },
+    "_folder-trash": {
+      "iconPath": "./icons/trash-folder.svg"
+    },
+    "_folder-ttf": {
+      "iconPath": "./icons/ttf-folder.svg"
+    },
+    "_folder-web": {
+      "iconPath": "./icons/web-folder.svg"
+    },
+    "_folder-xcode": {
+      "iconPath": "./icons/xcode-folder.svg"
+    },
+    "_text-file": {
+      "iconPath": "./icons/doc.text.svg"
     }
     
   },
   "file": "_file",
   "folder": "_folder",
   "folderNames": {
-    "node_modules": "_folder",
-    "vendor": "_folder",
-    "assets": "_file-books",
-    "fonts": "_folder-ttf",
+    ".xcodeproj": "_folder-xcode",
+    ".xcworkspace": "_folder-xcode",
+    "Product": "_folder-xcode",
+    "Products": "_folder-xcode",
     "android": "_folder-android",
+    "asserts": "_file-books",
+    "assets": "_file-books",
+    "bin": "_folder-trash",
     "css": "_folder-css",
-    "styles": "_folder-css",
     "database": "_folder-database",
+    "firebase": "_folder-firebase",
+    "fonts": "_folder-ttf",
+    "ios": "_folder-ios",
+    "node_modules": "_folder",
     "other": "_folder-other",
     "others": "_folder-other",
-    "ios": "_folder-ios",
-    "windows": "_folder-pc",
-    "scr": "_folder-scr",
-    "themes": "_folder-themes",
-    "theme": "_folder-themes",
-    "web": "_folder-web",
-    ".xcworkspace": "_folder-xcode",
-    ".xcodeproj": "_folder-xcode",
-    "trash": "_folder-trash",
-    "bin": "_folder-trash",
-    "asserts": "_file-books",
     "product": "_folder-xcode",
-    "Product": "_folder-xcode",
     "products": "_folder-xcode",
-    "Products": "_folder-xcode",
-    "firebase": "_folder-firebase"
+    "scr": "_folder-scr",
+    "styles": "_folder-css",
+    "theme": "_folder-themes",
+    "themes": "_folder-themes",
+    "trash": "_folder-trash",
+    "vendor": "_folder",
+    "web": "_folder-web",
+    "windows": "_folder-pc"
   },
   "fileExtensions": {
-    "c": "_file",
-    "go": "_file",
-    "rb": "_file",
-    "ru": "_file",
-    "rs": "_file",
-    "cr": "_file",
-    "py": "_file",
-    "java": "_file",
-    "php": "_file",
-    "js": "_file",
-    "dart": "_file-dart",
-    "es6": "_file",
-    "coffee": "_file",
-    "css": "_file-hashtag",
-    "less": "_file",
-    "sass": "_file",
-    "scss": "_file",
-    "cpp": "_file",
     "bash": "_file",
-    "md": "_file-markdown",
-    "textile": "_file-text",
-    "rdoc": "_file",
-    "txt": "_text-file",
-    "json": "_file-brakets",
-    "yml": "_file-ex",
-    "ini": "_file",
-    "html": "_file-html",
+    "c": "_file",
+    "coffee": "_file",
     "conf": "_file",
-    "properties": "_file",
-    "toml": "_file",
+    "cpp": "_file",
+    "cr": "_file",
+    "css": "_file-hashtag",
+    "dart": "_file-dart",
+    "docx": "_file-docx",
+    "es6": "_file",
+    "go": "_file",
+    "html": "_file-html",
     "iml": "_file-wifi",
+    "ini": "_file",
+    "java": "_file",
+    "jpeg": "_file-photo",
+    "js": "_file",
+    "json": "_file-brakets",
+    "less": "_file",
     "log": "_file",
-    "zip": "_file-zip",
-    "ttf": "_file-ttf",
-    "otf": "_file-otf",
-    "swift": "_file-swift",
+    "mcaddon": "_file-minecraft",
+    "mcpack": "_file-minecraft",
+    "md": "_file-markdown",
     "mp3": "_file-headphones",
     "mp4": "_file-tv",
-    "png": "_file-photo",
-    "docx": "_file-docx",
+    "otf": "_file-otf",
     "pdf": "_file-pdf",
+    "php": "_file",
+    "png": "_file-photo",
+    "properties": "_file",
+    "py": "_file",
+    "rb": "_file",
+    "rdoc": "_file",
+    "rs": "_file",
+    "ru": "_file",
+    "sass": "_file",
+    "scss": "_file",
     "svg": "_file-svg",
-    "xlsx": "_file-excel",
+    "swift": "_file-swift",
+    "textile": "_file-text",
+    "toml": "_file",
+    "ttf": "_file-ttf",
+    "txt": "_text-file",
     "vsix": "_file-vsix",
+    "xlsx": "_file-excel",
     "yaml": "_folder-ex",
-    "jpeg": "_file-photo"
+    "yml": "_file-ex",
+    "zip": "_file-zip"
   },
   "fileNames": {
-    "license": "_file-license",
+    "Dockerfile": "_file",
     "LICENSE": "_file-license",
-    "license.md": "_file-license",
     "LICENSE.md": "_file-license",
-    "license.txt": "_file-license",
     "LICENSE.txt": "_file-license",
-    "todo": "_file-todo",
-    "TODO": "_file-todo",
-    "todo.md": "_file-todo",
-    "TODO.md": "_file-todo",
-    "todo.txt": "_file-todo",
-    "TODO.txt": "_file-todo",
-    "to-do": "_file-todo",
-    "TO-DO": "_file-todo",
-    "to-do.md": "_file-todo",
-    "TO-DO.md": "_file-todo",
-    "to-do.txt": "_file-todo",
-    "TO-DO.txt": "_file-todo",
-    "favicon.png": "_file-favicon",
-    "favicon.jpeg": "_file-favicon",
-    "favicon.svg": "_file-favicon",
-    "package.json": "_file-package",
-    "gemfile": "_file",
-    "makefile": "_file",
-    "rakefile": "_file",
-    "README.md": "_file-info",
-    "readme.md": "_file-info",
-    "package": "_file-package",
-    "procfile": "_file",
-    "Legal_disclaimer": "_file-legal",
-    "Legal_disclaimer.txt": "_file-legal",
-    "Legal_disclaimer.md": "_file-legal",
-    "Legal-disclaimer.txt": "_file-legal",
     "Legal-disclaimer.md": "_file-legal",
-    "Dockerfile": "_file"
+    "Legal-disclaimer.txt": "_file-legal",
+    "Legal_disclaimer": "_file-legal",
+    "Legal_disclaimer.md": "_file-legal",
+    "Legal_disclaimer.txt": "_file-legal",
+    "README.md": "_file-info",
+    "TO-DO": "_file-todo",
+    "TO-DO.md": "_file-todo",
+    "TO-DO.txt": "_file-todo",
+    "TODO": "_file-todo",
+    "TODO.md": "_file-todo",
+    "TODO.txt": "_file-todo",
+    "favicon.jpeg": "_file-favicon",
+    "favicon.png": "_file-favicon",
+    "favicon.svg": "_file-favicon",
+    "gemfile": "_file",
+    "license": "_file-license",
+    "license.md": "_file-license",
+    "license.txt": "_file-license",
+    "makefile": "_file",
+    "package": "_file-package",
+    "package.json": "_file-package",
+    "procfile": "_file",
+    "rakefile": "_file",
+    "readme.md": "_file-info",
+    "to-do": "_file-todo",
+    "to-do.md": "_file-todo",
+    "to-do.txt": "_file-todo",
+    "todo": "_file-todo",
+    "todo.md": "_file-todo",
+    "todo.txt": "_file-todo"
   },
   "dark": {
     "file": "_file",

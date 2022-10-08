@@ -1,8 +1,8 @@
 {
     "name": "xcode-theme-for-vscode",
     "displayName": "Het's Xcode theme for VS Code",
-    "description": "Make your VS Code cleaner and more beautiful.",
-    "version": "1.1.4",
+    "description": "Make your VS Code cleaner and more beautiful with SF Symbols.",
+    "version": "1.1.5",
     "repository": {
         "type": "git",
         "url": "https://github.com/Hetp05/xcode-theme-for-vscode.git"
@@ -13,6 +13,7 @@
         "name": "Het",
         "url": "https://hetp05.github.io/hetp/"
     },
+    "license": "Legal-Disclaimer.txt",
     "readme": "README.md",
     "publisher": "Het",
     "homepage": "https://github.com/Hetp05/xcode-theme-for-vscode/blob/main/README.md",
@@ -39,25 +40,25 @@
         "Themes"
     ],
     "contributes": {
+        "iconThemes": [
+            {
+                "label": "Het's Custom File Icons For VS Code",
+                "id": "xcode-icon-theme-for-vs-code",
+                "path": "./themes/file-icons-theme.json"
+            }
+        ],
+        "productIconThemes": [
+            {
+                "label": "Het's SF Symbols Theme",
+                "id": "sf-symbol-icons",
+                "path": "./themes/product-theme.json"
+            }
+        ],
         "themes": [
             {
                 "label": "Het's Xcode Theme For VS Code",
                 "uiTheme": "vs-dark",
                 "path": "./themes/color-theme.json"
-            }
-        ],
-        "productIconThemes": [
-            {
-              "id": "sf-symbol-icons",
-              "label": "Het's SF Symbols Theme",
-              "path": "./themes/product-theme.json"
-            }
-          ],
-        "iconThemes": [
-            {
-                "id": "xcode-icon-theme-for-vs-code",
-                "label": "Het's Custom File Icons For VS Code",
-                "path": "./themes/file-icons-theme.json"
             }
         ]
     }

@@ -1,12 +1,32 @@
 # Change Log
 
-> Never write "Updated `CHANGELOG.md`".
+> Never write "Updated `CHANGELOG.md`/ `trash` folder".
+
+## `1.1.5`
+
+* Updated some `.json` files, unordered to ordered A-Z list
+
+* Updated screenshots' background
+
+* Fixed "First Screenshot" bug on `README.md`
+
+* Added file icon for `.mcpack` and `.mcaddon`
+
+```txt
+assets
+    ┣ Screenshot-5.png
+    ┗ Screenshot-8.png
+themes
+    ┗ icons
+        ┗ minecraft.svg
+    ┣ color-theme.json
+    ┗ file-icons-theme.json
+README.md
+```
 
 ## `1.1.4`
 
 * Added file called `screenshot-9`
-
-![screen 9](assets/Screenshot-9.png)
 
 * Updated comments color `#6A9955` to `#73A74E`
 
@@ -64,8 +84,6 @@ Legal-Disclaimer.txt
 
 * Added file icon for `Legal_disclaimer`
 
-![Legal File](assets/Screenshot-7.png)
-
 ## `1.1.0`
 
 * Updated `package.json`, `credits.md` and `CHANGLOG.md`
@@ -73,11 +91,10 @@ Legal-Disclaimer.txt
 * Added `Legel_Disclaimer.txt`
 
 ```txt
-* folder
-    ┣ CHANGELOG.md
-    ┣ credits.md
-    ┣ Legel_Disclaimer.txt
-    ┗ README.md
+CHANGELOG.md
+credits.md
+Legel_Disclaimer.txt
+README.md
 ```
 
 ---
@@ -85,8 +102,6 @@ Legal-Disclaimer.txt
 ## `1.0.2`
 
 * Finally, the first release is here + added some file icon + fixed some bugs
-
-![Icons preview](assets/Screenshot-5.png)
 
 ---
 
@@ -109,8 +124,6 @@ vsc-extension-quickstart.md
 ## `0.6.0`
 
 * Added bunch of folder icons
-
-![folders icon preview](assets/Screenshot-2.png)
 
 ---
 

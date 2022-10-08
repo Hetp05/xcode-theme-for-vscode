@@ -1,5 +1,5 @@
 {
-	"name": "Xcode Theme For VS Code",
+	"name": "Het's Xcode Theme For VS Code",
 	"type": "dark",
 	"colors": {
 	"activityBar.activeBorder": "#101010",
@@ -116,13 +116,13 @@
 	"widget.shadow": "#403e3e",
 
 	// Xcode Blue
+	"activityBarBadge.background": "#0A84FF",
+	"button.background": "#1568E5",
+	"editorLink.activeForeground": "#2997ff",
 	"focusBorder": "#0A84FF",
-    "progressBar.background": "#0A84FF",
-    "activityBarBadge.background": "#0A84FF",
-    "statusBar.background": "#0A84FF",
-    "button.background": "#1568E5",
-    "notificationsInfoIcon.foreground": "#1568E5",
-    "editorLink.activeForeground": "#2997ff",
+	"notificationsInfoIcon.foreground": "#1568E5",
+	"progressBar.background": "#0A84FF",
+	"statusBar.background": "#0A84FF",
 
 	// Xcode Terminal
 	"terminal.ansiBlack": "#1F2024",

@@ -2,15 +2,15 @@
 
 Make your VS Code cleaner and more beautiful.
 
-![first screenshot](assets/Screenshot-6.png)
+![theme preview](assets/screenshot-6.png)
 
 ## File Icons
 
-![File Icon preview](assets/Screenshot-8.png)
+![File Icon preview](assets/Screenshot-5.png)
 
 ## Folder Icons
 
-![folder Icon preview](assets/Screenshot-2.png)
+![folder Icon preview](assets/Screenshot-8.png)
 
 ## Inspiration
 
@@ -54,6 +54,28 @@ And [extra extensions](extra-tweaks.md) for more Xcode a like feeling.
 
 ## Change Log
 
+### `1.1.5`
+
+* Updated some `.json` files, unordered to ordered A-Z list
+
+* Updated screenshots' background
+
+* Fixed "First Screenshot" bug on `README.md`
+
+* Added file icon for `.mcpack` and `.mcaddon`
+
+```txt
+assets
+    ┣ Screenshot-5.png
+    ┗ Screenshot-8.png
+themes
+    ┗ icons
+        ┗ minecraft.svg
+    ┣ color-theme.json
+    ┗ file-icons-theme.json
+README.md
+```
+
 ### `1.1.4`
 
 * Added file called `screenshot-9`
@@ -79,17 +101,6 @@ themes
     ┗ file-icons-theme.json
 credits.md
 package.json
-```
-
-### `1.1.3`
-
-* Added file called `extra-tweaks.md`
-
-* Removed some extra links to `README`
-
-```txt
-extra-tweaks.md
-README.md
 ```
 
 ---
