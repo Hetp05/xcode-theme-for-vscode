@@ -1,67 +1,192 @@
 {
+  "fonts": [
+    {
+      "id": "SF-Pro",
+      "src": [
+        {
+          "path": "./fonts/SF-Pro-Display-Light.otf",
+          "format": "OpenType"
+        }
+      ],
+      "weight": "normal",
+      "size": "95%",
+      "style": "normal"
+    }
+  ],
   "iconDefinitions": {
-    "_file": {
-      "iconPath": "./icons/doc.svg"
+    "_audio": {
+      "fontCharacter": "\\100789",
+      "fontColor": "#af52de",
+      "fontId": "SF-Pro"
     },
-    "_file-books": {
-      "iconPath": "./icons/books.vertical.fill.svg"
+    "_audio_light": {
+      "fontCharacter": "\\100789",
+      "fontColor": "#bf5af2",
+      "fontId": "SF-Pro"
     },
-    "_file-brakets": {
-      "iconPath": "./icons/brackets.svg"
+    "_calc": {
+      "fontCharacter": "\\1003e3",
+      "fontColor": "#28cd41",
+      "fontId": "SF-Pro"
+    },
+    "_calc_light": {
+      "fontCharacter": "\\1003e3",
+      "fontColor": "#32d74b",
+      "fontId": "SF-Pro"
+    },
+    "_clock": {
+      "fontCharacter": "\\10042b",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_clock_1": {
+      "fontCharacter": "\\10042b",
+      "fontColor": "#8e8e93",
+      "fontId": "SF-Pro"
+    },
+    "_clock_1_light": {
+      "fontCharacter": "\\10042b",
+      "fontColor": "#98989d",
+      "fontId": "SF-Pro"
+    },
+    "_clock_light": {
+      "fontCharacter": "\\10042b",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_code-search": {
+      "fontCharacter": "\\1002ab",
+      "fontColor": "#af52de",
+      "fontId": "SF-Pro"
+    },
+    "_code-search_light": {
+      "fontCharacter": "\\1002ab",
+      "fontColor": "#bf5af2",
+      "fontId": "SF-Pro"
+    },
+    "_config": {
+      "fontCharacter": "\\1008cc",
+      "fontColor": "#8e8e93",
+      "fontId": "SF-Pro"
+    },
+    "_config_light": {
+      "fontCharacter": "\\1008cc",
+      "fontColor": "#98989d",
+      "fontId": "SF-Pro"
+    },
+    "_css": {
+      "fontCharacter": "\\100183",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_css_light": {
+      "fontCharacter": "\\100183",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_csv": {
+      "fontCharacter": "\\10062e",
+      "fontColor": "#28cd41",
+      "fontId": "SF-Pro"
+    },
+    "_csv_light": {
+      "fontCharacter": "\\10062e",
+      "fontColor": "#32d74b",
+      "fontId": "SF-Pro"
+    },
+    "_db": {
+      "fontCharacter": "\\100854",
+      "fontColor": "#ff2d55",
+      "fontId": "SF-Pro"
+    },
+    "_db_1": {
+      "fontCharacter": "\\100854",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_db_1_light": {
+      "fontCharacter": "\\100854",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_db_light": {
+      "fontCharacter": "\\100854",
+      "fontColor": "#ff375f",
+      "fontId": "SF-Pro"
+    },
+    "_default": {
+      "fontCharacter": "\\100237",
+      "fontColor": "#8e8e93",
+      "fontId": "SF-Pro"
+    },
+    "_default_light": {
+      "fontCharacter": "\\100237",
+      "fontColor": "#98989d",
+      "fontId": "SF-Pro"
+    },
+    "_excel": {
+      "fontCharacter": "\\1000c2",
+      "fontColor": "#28cd41",
+      "fontId": "SF-Pro"
+    },
+    "_excel_light": {
+      "fontCharacter": "\\1000c2",
+      "fontColor": "#32d74b",
+      "fontId": "SF-Pro"
+    },
+    "_favicon": {
+      "fontCharacter": "\\100827",
+      "fontColor": "#ffcc00",
+      "fontId": "SF-Pro"
+    },
+    "_favicon_light": {
+      "fontCharacter": "\\100827",
+      "fontColor": "#ffd60a",
+      "fontId": "SF-Pro"
+    },
+    "_figma": {
+      "fontCharacter": "\\10016d",
+      "fontColor": "#ff2d55",
+      "fontId": "SF-Pro"
+    },
+    "_figma_light": {
+      "fontCharacter": "\\10016d",
+      "fontColor": "#ff375f",
+      "fontId": "SF-Pro"
+    },
+    "_file-console": {
+      "iconPath": "./icons/console.svg"
     },
     "_file-dart": {
       "iconPath": "./icons/dart.svg"
     },
-    "_file-docx": {
-      "iconPath": "./icons/docx-file.svg"
-    },
-    "_file-excel": {
-      "iconPath": "./icons/execl.svg"
-    },
-    "_file-favicon": {
-      "iconPath": "./icons/favicon.svg"
-    },
-    "_file-hashtag": {
-      "iconPath": "./icons/number.svg"
-    },
-    "_file-headphones": {
-      "iconPath": "./icons/headphones.svg"
-    },
-    "_file-html": {
-      "iconPath": "./icons/html.svg"
-    },
-    "_file-info": {
-      "iconPath": "./icons/info.circle.svg"
-    },
     "_file-iphone": {
       "iconPath": "./icons/iphone.x.svg"
     },
+    "_file-kotlin": {
+      "iconPath": "./icons/kotlin.svg"
+    },
     "_file-legal": {
-      "iconPath": "./icons/legal.svg"
+      "fontCharacter": "\\1011c6",
+      "fontColor": "#8e8e93",
+      "fontId": "SF-Pro"
+    },
+    "_file-legal_light": {
+      "fontCharacter": "\\1011c6",
+      "fontColor": "#98989d",
+      "fontId": "SF-Pro"
     },
     "_file-license": {
       "iconPath": "./icons/licence.svg"
     },
-    "_file-markdown": {
-      "iconPath": "./icons/markdown.svg"
-    },
     "_file-minecraft": {
       "iconPath": "./icons/minecraft.svg"
-    },
-    "_file-otf": {
-      "iconPath": "./icons/textformat.svg"
-    },
-    "_file-package": {
-      "iconPath": "./icons/package.svg"
     },
     "_file-pc": {
       "iconPath": "./icons/pc.svg"
     },
     "_file-pdf": {
       "iconPath": "./icons/pdf.svg"
-    },
-    "_file-photo": {
-      "iconPath": "./icons/photos.svg"
     },
     "_file-svg": {
       "iconPath": "./icons/purple-svg.svg"
@@ -72,29 +197,28 @@
     "_file-textalign": {
       "iconPath": "./icons/text.alignleft.svg"
     },
-    "_file-todo": {
-      "iconPath": "./icons/todo.svg"
-    },
-    "_file-ttf": {
-      "iconPath": "./icons/textformat.size.svg"
-    },
-    "_file-tv": {
-      "iconPath": "./icons/mp4.svg"
-    },
-    "_file-vsix": {
-      "iconPath": "./icons/vsix.svg"
-    },
-    "_file-wifi": {
-      "iconPath": "./icons/wifi-right.svg"
-    },
-    "_file-zip": {
-      "iconPath": "./icons/zip.svg"
-    },
     "_folder": {
-      "iconPath": "./icons/folder.fill.svg"
+      "fontCharacter": "\\100216",
+      "fontColor": "#98989d",
+      "fontId": "SF-Pro"
+    },
+    "_folder-3d": {
+      "iconPath": "./icons/3d-folder.svg"
     },
     "_folder-android": {
       "iconPath": "./icons/android-folder.svg"
+    },
+    "_folder-audio": {
+      "iconPath": "./icons/audio-folder.svg"
+    },
+    "_folder-benchmark": {
+      "iconPath": "./icons/benchmark-folder.svg"
+    },
+    "_folder-bugs": {
+      "iconPath": "./icons/bugs-folder.svg"
+    },
+    "_folder-cart": {
+      "iconPath": "./icons/cart-folder.svg"
     },
     "_folder-css": {
       "iconPath": "./icons/css-folder.svg"
@@ -102,20 +226,44 @@
     "_folder-database": {
       "iconPath": "./icons/database-folder.svg"
     },
+    "_folder-desktop": {
+      "iconPath": "./icons/desktop-folder.svg"
+    },
+    "_folder-doc": {
+      "iconPath": "./icons/doc-folder.svg"
+    },
+    "_folder-download": {
+      "iconPath": "./icons/download-folder.svg"
+    },
     "_folder-ex": {
       "iconPath": "./icons/!.svg"
+    },
+    "_folder-fav": {
+      "iconPath": "./icons/fav-folder.svg"
     },
     "_folder-firebase": {
       "iconPath": "./icons/firebase-folder.svg"
     },
+    "_folder-games": {
+      "iconPath": "./icons/games-folder.svg"
+    },
     "_folder-ios": {
       "iconPath": "./icons/ios-folder.svg"
+    },
+    "_folder-mail": {
+      "iconPath": "./icons/mail-folder.svg"
+    },
+    "_folder-network": {
+      "iconPath": "./icons/network-folder.svg"
     },
     "_folder-other": {
       "iconPath": "./icons/other-folder.svg"
     },
     "_folder-pc": {
       "iconPath": "./icons/pc-folder.svg"
+    },
+    "_folder-pic": {
+      "iconPath": "./icons/pic-folder.svg"
     },
     "_folder-src": {
       "iconPath": "./icons/src-folder.svg"
@@ -129,96 +277,495 @@
     "_folder-ttf": {
       "iconPath": "./icons/ttf-folder.svg"
     },
+    "_folder-video": {
+      "iconPath": "./icons/video-folder.svg"
+    },
     "_folder-web": {
       "iconPath": "./icons/web-folder.svg"
     },
     "_folder-xcode": {
       "iconPath": "./icons/xcode-folder.svg"
     },
-    "_text-file": {
-      "iconPath": "./icons/doc.text.svg"
+    "_folder_assets": {
+      "fontCharacter": "\\100b13",
+      "fontColor": "#8e8e93",
+      "fontId": "SF-Pro"
+    },
+    "_folder_assets_light": {
+      "fontCharacter": "\\100b13",
+      "fontColor": "#98989d",
+      "fontId": "SF-Pro"
+    },
+    "_folder_light": {
+      "fontCharacter": "\\100216",
+      "fontColor": "#8e8e93",
+      "fontId": "SF-Pro"
+    },
+    "_font": {
+      "fontCharacter": "\\100150",
+      "fontColor": "#ff3b30",
+      "fontId": "SF-Pro"
+    },
+    "_font_1": {
+      "fontCharacter": "\\100152",
+      "fontColor": "#C93400",
+      "fontId": "SF-Pro"
+    },
+    "_font_light": {
+      "fontCharacter": "\\100150",
+      "fontColor": "#ff453a",
+      "fontId": "SF-Pro"
+    },
+    "_font_light_1": {
+      "fontCharacter": "\\100152",
+      "fontColor": "#C93400",
+      "fontId": "SF-Pro"
+    },
+    "_html": {
+      "fontCharacter": "\\10065a",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_html_1": {
+      "fontCharacter": "\\10065a",
+      "fontColor": "#28cd41",
+      "fontId": "SF-Pro"
+    },
+    "_html_1_light": {
+      "fontCharacter": "\\10065a",
+      "fontColor": "#32d74b",
+      "fontId": "SF-Pro"
+    },
+    "_html_2": {
+      "fontCharacter": "\\10065a",
+      "fontColor": "#ffcc00",
+      "fontId": "SF-Pro"
+    },
+    "_html_2_light": {
+      "fontCharacter": "\\10065a",
+      "fontColor": "#ffd60a",
+      "fontId": "SF-Pro"
+    },
+    "_html_3": {
+      "fontCharacter": "\\10065a",
+      "fontColor": "#ff9500",
+      "fontId": "SF-Pro"
+    },
+    "_html_3_light": {
+      "fontCharacter": "\\10065a",
+      "fontColor": "#ff9f0a",
+      "fontId": "SF-Pro"
+    },
+    "_html_erb": {
+      "fontCharacter": "\\10065a",
+      "fontColor": "#ff3b30",
+      "fontId": "SF-Pro"
+    },
+    "_html_erb_light": {
+      "fontCharacter": "\\10065a",
+      "fontColor": "#ff453a",
+      "fontId": "SF-Pro"
+    },
+    "_html_light": {
+      "fontCharacter": "\\10065a",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_ignored": {
+      "fontCharacter": "\\1002f0",
+      "fontColor": "#41535b",
+      "fontId": "SF-Pro"
+    },
+    "_ignored_light": {
+      "fontCharacter": "\\1002f0",
+      "fontColor": "#3b4b52",
+      "fontId": "SF-Pro"
+    },
+    "_image": {
+      "fontCharacter": "\\1008f5",
+      "fontColor": "#af52de",
+      "fontId": "SF-Pro"
+    },
+    "_image_light": {
+      "fontCharacter": "\\1008f5",
+      "fontColor": "#bf5af2",
+      "fontId": "SF-Pro"
+    },
+    "_impress": {
+      "fontCharacter": "\\100441",
+      "fontColor": "#ff9500",
+      "fontId": "SF-Pro"
+    },
+    "_impress_light": {
+      "fontCharacter": "\\100441",
+      "fontColor": "#ff9f0a",
+      "fontId": "SF-Pro"
+    },
+    "_info": {
+      "fontCharacter": "\\100174",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_info_light": {
+      "fontCharacter": "\\100174",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_json": {
+      "fontCharacter": "\\100845",
+      "fontColor": "#ffcc00",
+      "fontId": "SF-Pro"
+    },
+    "_json_1": {
+      "fontCharacter": "\\100845",
+      "fontColor": "#28cd41",
+      "fontId": "SF-Pro"
+    },
+    "_json_1_light": {
+      "fontCharacter": "\\100845",
+      "fontColor": "#32d74b",
+      "fontId": "SF-Pro"
+    },
+    "_json_light": {
+      "fontCharacter": "\\100845",
+      "fontColor": "#ffd60a",
+      "fontId": "SF-Pro"
+    },
+    "_keynote": {
+      "fontCharacter": "\\1013bf",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_keynote_light": {
+      "fontCharacter": "\\1013bf",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_less": {
+      "fontCharacter": "\\10065a",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_less_light": {
+      "fontCharacter": "\\10065a",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_license": {
+      "fontCharacter": "\\1011c6",
+      "fontColor": "#8e8e93",
+      "fontId": "SF-Pro"
+    },
+    "_license_light": {
+      "fontCharacter": "\\1011c6",
+      "fontColor": "#98989d",
+      "fontId": "SF-Pro"
+    },
+    "_lock": {
+      "fontCharacter": "\\1003a1",
+      "fontColor": "#28cd41",
+      "fontId": "SF-Pro"
+    },
+    "_lock_light": {
+      "fontCharacter": "\\1003a1",
+      "fontColor": "#32d74b",
+      "fontId": "SF-Pro"
+    },
+    "_file-markdown": {
+      "iconPath": "./icons/markdown.svg"
+    },
+    "_file-markdown_light": {
+      "iconPath": "./icons/markdown.svg"
+    },
+    "_mustache": {
+      "fontCharacter": "\\100980",
+      "fontColor": "#ff9500",
+      "fontId": "SF-Pro"
+    },
+    "_mustache_light": {
+      "fontCharacter": "\\100980",
+      "fontColor": "#ff9f0a",
+      "fontId": "SF-Pro"
+    },
+    "_numbers": {
+      "fontCharacter": "\\1008c9",
+      "fontColor": "#28cd41",
+      "fontId": "SF-Pro"
+    },
+    "_numbers_light": {
+      "fontCharacter": "\\1008c9",
+      "fontColor": "#32d74b",
+      "fontId": "SF-Pro"
+    },
+    "_package": {
+      "fontCharacter": "\\10041b",
+      "fontColor": "#a2845e",
+      "fontId": "SF-Pro"
+    },
+    "_package_light": {
+      "fontCharacter": "\\10041b",
+      "fontColor": "#ac8e68",
+      "fontId": "SF-Pro"
+    },
+    "_pages": {
+      "fontCharacter": "\\10169b",
+      "fontColor": "#ff9500",
+      "fontId": "SF-Pro"
+    },
+    "_pages_light": {
+      "fontCharacter": "\\10169b",
+      "fontColor": "#ff9f0a",
+      "fontId": "SF-Pro"
+    },
+    "_powerpoint": {
+      "fontCharacter": "\\100022",
+      "fontColor": "#ff3b30",
+      "fontId": "SF-Pro"
+    },
+    "_powerpoint_light": {
+      "fontCharacter": "\\100022",
+      "fontColor": "#ff453a",
+      "fontId": "SF-Pro"
+    },
+    "_react": {
+      "fontCharacter": "\\100b1a",
+      "fontColor": "#00c7be",
+      "fontId": "SF-Pro"
+    },
+    "_react_1": {
+      "fontCharacter": "\\100b1a",
+      "fontColor": "#ff9500",
+      "fontId": "SF-Pro"
+    },
+    "_react_1_light": {
+      "fontCharacter": "\\100b1a",
+      "fontColor": "#ff9f0a",
+      "fontId": "SF-Pro"
+    },
+    "_react_light": {
+      "fontCharacter": "\\100b1a",
+      "fontColor": "#66d4cf",
+      "fontId": "SF-Pro"
+    },
+    "_svg": {
+      "fontCharacter": "\\10040a",
+      "fontColor": "#af52de",
+      "fontId": "SF-Pro"
+    },
+    "_svg_1": {
+      "fontCharacter": "\\10040a",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_svg_1_light": {
+      "fontCharacter": "\\10040a",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_svg_light": {
+      "fontCharacter": "\\10040a",
+      "fontColor": "#bf5af2",
+      "fontId": "SF-Pro"
+    },
+    "_todo": {
+      "fontCharacter": "\\1000f2",
+      "fontId": "SF-Pro"
+    },
+    "_todo_light": {
+      "fontCharacter": "\\1000f2",
+      "fontId": "SF-Pro"
+    },
+    "_txt": {
+      "fontCharacter": "\\10023f",
+      "fontColor": "#8e8e93",
+      "fontId": "SF-Pro"
+    },
+    "_txt_light": {
+      "fontCharacter": "\\10023f",
+      "fontColor": "#98989d",
+      "fontId": "SF-Pro"
+    },
+    "_video": {
+      "fontCharacter": "\\10034a",
+      "fontColor": "#ff2d55",
+      "fontId": "SF-Pro"
+    },
+    "_video_light": {
+      "fontCharacter": "\\10034a",
+      "fontColor": "#ff375f",
+      "fontId": "SF-Pro"
+    },
+    "_vsix": {
+      "fontCharacter": "\\10091a",
+      "fontColor": "#8e8e93",
+      "fontId": "SF-Pro"
+    },
+    "_vsix_light": {
+      "fontCharacter": "\\10091a",
+      "fontColor": "#98989d",
+      "fontId": "SF-Pro"
+    },
+    "_windows": {
+      "fontCharacter": "\\10097a",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_windows_light": {
+      "fontCharacter": "\\10097a",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_word": {
+      "fontCharacter": "\\1000c0",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_word_light": {
+      "fontCharacter": "\\1000c0",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_writer": {
+      "fontCharacter": "\\100245",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_writer_light": {
+      "fontCharacter": "\\100245",
+      "fontColor": "#0a84ff",
+      "fontId": "SF-Pro"
+    },
+    "_zip": {
+      "fontCharacter": "\\100927",
+      "fontColor": "#ff3b30",
+      "fontId": "SF-Pro"
+    },
+    "_zip_1": {
+      "fontCharacter": "\\100927",
+      "fontColor": "#8e8e93",
+      "fontId": "SF-Pro"
+    },
+    "_zip_1_light": {
+      "fontCharacter": "\\100927",
+      "fontColor": "#98989d",
+      "fontId": "SF-Pro"
+    },
+    "_zip_light": {
+      "fontCharacter": "\\100927",
+      "fontColor": "#ff453a",
+      "fontId": "SF-Pro"
     }
-    
   },
-  "file": "_file",
+  "file": "_default",
   "folder": "_folder",
   "folderNames": {
     ".xcodeproj": "_folder-xcode",
     ".xcworkspace": "_folder-xcode",
-    "Product": "_folder-xcode",
-    "Products": "_folder-xcode",
+    "3D Objects": "_folder-3d",
     "android": "_folder-android",
-    "asserts": "_file-books",
-    "assets": "_file-books",
+    "assets": "_folder_assets",
+    "asset": "_folder_assets",
+    "Audio": "_folder-audio",
+    "Benchmark": "_folder-benchmark",
     "bin": "_folder-trash",
+    "Bugs": "_folder-bugs",
+    "Cart": "_folder-cart",
     "css": "_folder-css",
     "database": "_folder-database",
+    "Desktop": "_folder-desktop",
+    "Doc": "_folder-doc",
+    "Docs": "_folder-doc",
+    "Documents": "_folder-doc",
+    "Downloads": "_folder-download",
+    "Favorite": "_folder-fav",
     "firebase": "_folder-firebase",
     "fonts": "_folder-ttf",
+    "Games": "_folder-games",
     "ios": "_folder-ios",
+    "Mail": "_folder-mail",
+    "Mails": "_folder-mail",
+    "Music": "_folder-audio",
+    "Network": "_folder-network",
     "node_modules": "_folder",
     "other": "_folder-other",
     "others": "_folder-other",
-    "product": "_folder-xcode",
-    "products": "_folder-xcode",
+    "Pic": "_folder-pic",
+    "Pics": "_folder-pic",
+    "Picture": "_folder-pic",
+    "Pictures": "_folder-pic",
+    "Product": "_folder-xcode",
+    "Products": "_folder-xcode",
     "scr": "_folder-scr",
     "styles": "_folder-css",
     "theme": "_folder-themes",
     "themes": "_folder-themes",
     "trash": "_folder-trash",
     "vendor": "_folder",
+    "Videos": "_folder-video",
     "web": "_folder-web",
     "windows": "_folder-pc"
   },
   "fileExtensions": {
-    "bash": "_file",
-    "c": "_file",
-    "coffee": "_file",
-    "conf": "_file",
-    "cpp": "_file",
-    "cr": "_file",
-    "css": "_file-hashtag",
+    "3dm": "_svg_1",
+    "3ds": "_svg_1",
+    "avi": "_video",
+    "bsl": "_bsl",
+    "cson": "_json",
+    "css": "_css",
+    "css.map": "_css",
+    "csv": "_csv",
+    "dae": "_svg_1",
     "dart": "_file-dart",
-    "docx": "_file-docx",
-    "es6": "_file",
-    "go": "_file",
-    "html": "_file-html",
-    "iml": "_file-wifi",
-    "ini": "_file",
-    "java": "_file",
-    "jpeg": "_file-photo",
-    "js": "_file",
-    "json": "_file-brakets",
-    "less": "_file",
-    "log": "_file",
+    "doc": "_word",
+    "docx": "_word",
+    "fig": "_figma",
+    "flac": "_audio",
+    "gif": "_image",
+    "html": "_html_3",
+    "ico": "_favicon",
+    "jar": "_zip",
+    "jpeg": "_image",
+    "jpg": "_image",
+    "json": "_json",
+    "key": "_keynote",
     "mcaddon": "_file-minecraft",
     "mcpack": "_file-minecraft",
     "md": "_file-markdown",
-    "mp3": "_file-headphones",
-    "mp4": "_file-tv",
-    "otf": "_file-otf",
-    "pdf": "_file-pdf",
-    "php": "_file",
-    "png": "_file-photo",
-    "properties": "_file",
-    "py": "_file",
-    "rb": "_file",
-    "rdoc": "_file",
-    "rs": "_file",
-    "ru": "_file",
-    "sass": "_file",
-    "scss": "_file",
-    "svg": "_file-svg",
+    "mov": "_video",
+    "mp3": "_audio",
+    "mp4": "_video",
+    "mpg": "_video",
+    "numbers": "_numbers",
+    "obj": "_svg_1",
+    "odp": "_impress",
+    "ods": "_calc",
+    "odt": "_writer",
+    "ogg": "_audio",
+    "ogv": "_video",
+    "otf": "_font_1",
+    "pages": "_pages",
+    "pdf": "_pdf",
+    "png": "_image",
+    "ppt": "_powerpoint",
+    "pptx": "_powerpoint",
+    "pxm": "_image",
+    "sss": "_css",
+    "stl": "_svg_1",
+    "svg": "_svg",
+    "svgx": "_image",
     "swift": "_file-swift",
-    "textile": "_file-text",
-    "toml": "_file",
-    "ttf": "_file-ttf",
-    "txt": "_text-file",
-    "vsix": "_file-vsix",
-    "xlsx": "_file-excel",
+    "tiff": "_image",
+    "ttf": "_font",
+    "txt": "_txt",
+    "vsix": "_vsix",
+    "wav": "_audio",
+    "webm": "_video",
+    "webp": "_image",
+    "xls": "_excel",
+    "xlsx": "_excel",
     "yaml": "_folder-ex",
     "yml": "_file-ex",
-    "zip": "_file-zip"
+    "zip": "_zip_1"
   },
   "fileNames": {
     "Dockerfile": "_file",
@@ -241,24 +788,25 @@
     "favicon.png": "_file-favicon",
     "favicon.svg": "_file-favicon",
     "gemfile": "_file",
-    "license": "_file-license",
-    "license.md": "_file-license",
+    "licence": "_license",
+    "licence.md": "_license",
+    "license": "_license",
+    "license.md": "_license",
     "license.txt": "_file-license",
     "makefile": "_file",
     "package": "_file-package",
-    "package.json": "_file-package",
-    "procfile": "_file",
-    "rakefile": "_file",
-    "readme.md": "_file-info",
+    "package.json": "_package",
+    "readme.md": "_info",
+    "settingseditor": "_config",
     "to-do": "_file-todo",
     "to-do.md": "_file-todo",
     "to-do.txt": "_file-todo",
-    "todo": "_file-todo",
     "todo.md": "_file-todo",
-    "todo.txt": "_file-todo"
+    "todo.txt": "_file-todo",
+    "version": "_clock"
   },
-  "dark": {
-    "file": "_file",
+  "light": {
+    "file": "_default_light",
     "folder": "_folder",
     "folderExpanded": "_folder",
     "folderNames": {
@@ -266,35 +814,35 @@
       "vendor": "_folder"
     },
     "fileExtensions": {
+      "bash": "_file",
       "c": "_file",
-      "go": "_file",
-      "rb": "_file",
-      "ru": "_file",
-      "rs": "_file",
-      "cr": "_file",
-      "py": "_file",
-      "java": "_file",
-      "php": "_file",
-      "js": "_file",
-      "es6": "_file",
       "coffee": "_file",
+      "conf": "_file",
+      "cpp": "_file",
+      "cr": "_file",
       "css": "_file",
+      "es6": "_file",
+      "go": "_file",
+      "ini": "_file",
+      "java": "_file",
+      "js": "_file",
+      "json": "_file",
       "less": "_file",
+      "log": "_file",
+      "md": "_file",
+      "php": "_file",
+      "properties": "_file",
+      "py": "_file",
+      "rb": "_file",
+      "rdoc": "_file",
+      "rs": "_file",
+      "ru": "_file",
       "sass": "_file",
       "scss": "_file",
-      "json": "_file",
-      "cpp": "_file",
-      "bash": "_file",
-      "md": "_file",
       "textile": "_file",
-      "rdoc": "_file",
-      "txt": "_file",
-      "ini": "_file",
-      "conf": "_file",
-      "properties": "_file",
       "toml": "_file",
-      "xml": "_file",
-      "log": "_file"
+      "txt": "_file",
+      "xml": "_file"
     },
     "fileNames": {
       "license": "_file",

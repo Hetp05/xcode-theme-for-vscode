@@ -12,6 +12,26 @@ Make your VS Code cleaner and more beautiful.
 
 ![folder Icon preview](assets/Screenshot-8.png)
 
+## To Install the Theme
+
+1. Download [`.vsix` file](https://github.com/Hetp05/xcode-theme-for-vscode/releases) from Github
+
+2. Run the command
+
+`code --install-extension xcode-theme-for-vscode-1.5.0.vsix`
+
+[Learn More](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix)...
+
+Or
+
+1. Download [`.vsix` file](https://github.com/Hetp05/xcode-theme-for-vscode/releases) from Github
+
+2. Open it in VS Code
+
+3. Left click on it
+
+4. To apply theme click on `Install Extension VSIX`
+
 ## Inspiration
 
 * [SF Symbols Icon Theme](https://marketplace.visualstudio.com/items?itemName=j-f1.sf-symbols)
@@ -39,10 +59,11 @@ And [extra extensions](extra-tweaks.md) for more Xcode a like feeling.
 
 ## And
 
-* [Credits](credits.md)
+* [Contributing Guide](CONTRIBUTING.md)
 * [Change Log](CHANGELOG.md)
-* [Legal Disclaimer](Legel_Disclaimer.txt)
+* [Credits](credits.md)
 * [Extra Tweaks](extra-tweaks.md)
+* [Legal Disclaimer](Legel_Disclaimer.txt)
 
 ---
 
@@ -53,6 +74,18 @@ And [extra extensions](extra-tweaks.md) for more Xcode a like feeling.
 ---
 
 ## Change Log
+
+### `1.2.0`
+
+* Update `account` icon in Production theme
+
+* Added bunch of new file and folder icon
+
+* Added contributing guide
+
+* Improved icon alignment
+
+* much more too long to write down :)
 
 ### `1.1.5`
 
@@ -74,33 +107,6 @@ themes
     ┣ color-theme.json
     ┗ file-icons-theme.json
 README.md
-```
-
-### `1.1.4`
-
-* Added file called `screenshot-9`
-
-* Updated comments color `#6A9955` to `#73A74E`
-
-* Added four more file icons for `favicon.png`, `LICENSE`, `.mp4` and `todo`
-
-* Updated an image in `credits.md`
-
-* Added bunch of new keywords to `package.json`
-
-```txt
-assets
-    ┗ Screenshot-9.png
-themes
-    ┗ icons
-        ┣ favicon.svg
-        ┣ license.svg
-        ┣ mp4.svg
-        ┗ todo.svg
-    ┣ color-theme.json
-    ┗ file-icons-theme.json
-credits.md
-package.json
 ```
 
 ---

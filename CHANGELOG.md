@@ -2,6 +2,18 @@
 
 > Never write "Updated `CHANGELOG.md`/ `trash` folder".
 
+## `1.2.0`
+
+* Update `account` icon in Production theme
+
+* Added bunch of new file and folder icon
+
+* Added contributing guide
+
+* Improved icon alignment
+
+* much more too long to write down :)
+
 ## `1.1.5`
 
 * Updated some `.json` files, unordered to ordered A-Z list
