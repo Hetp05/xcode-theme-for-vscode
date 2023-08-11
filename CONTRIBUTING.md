@@ -6,7 +6,7 @@
 
 - [Guide](#Contributing-Guide)
 
-    - [Setting Up env.](#setting-up-env)
+  - [Setting Up env.](#setting-up-env)
 
 - [Different types of theme](#different-types-of-theme)
 
@@ -66,7 +66,6 @@
 And 
 
 ```json
-{
   "folderNames": {
     "benchmark": "_folder-benchmark"
   },

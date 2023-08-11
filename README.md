@@ -2,7 +2,7 @@
 
 Make your VS Code cleaner and more beautiful.
 
-![theme preview](assets/screenshot-6.png)
+![theme preview](assets/screenshot-14.png)
 
 ## File Icons
 
@@ -18,7 +18,7 @@ Make your VS Code cleaner and more beautiful.
 
 2. Run the command
 
-`code --install-extension xcode-theme-for-vscode-1.5.0.vsix`
+`code --install-extension xcode-theme-for-vscode-1.2.1.vsix`
 
 [Learn More](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix)...
 
@@ -31,6 +31,8 @@ Or
 3. Left click on it
 
 4. To apply theme click on `Install Extension VSIX`
+
+![Screenshot showing how to install the extension](assets/Screenshot-15.png)
 
 ## Inspiration
 
@@ -75,6 +77,10 @@ And [extra extensions](extra-tweaks.md) for more Xcode a like feeling.
 
 ## Change Log
 
+### `1.2.1`
+
+* Added Panel and Sidebar icons.
+
 ### `1.2.0`
 
 * Update `account` icon in Production theme
@@ -87,28 +93,6 @@ And [extra extensions](extra-tweaks.md) for more Xcode a like feeling.
 
 * much more too long to write down :)
 
-### `1.1.5`
-
-* Updated some `.json` files, unordered to ordered A-Z list
-
-* Updated screenshots' background
-
-* Fixed "First Screenshot" bug on `README.md`
-
-* Added file icon for `.mcpack` and `.mcaddon`
-
-```txt
-assets
-    ┣ Screenshot-5.png
-    ┗ Screenshot-8.png
-themes
-    ┗ icons
-        ┗ minecraft.svg
-    ┣ color-theme.json
-    ┗ file-icons-theme.json
-README.md
-```
-
 ---
 
-**Enjoy Kinder Joy!** #not_sponsored
+**Enjoy !**

@@ -154,14 +154,8 @@
       "fontColor": "#ff375f",
       "fontId": "SF-Pro"
     },
-    "_file-console": {
-      "iconPath": "./icons/console.svg"
-    },
     "_file-dart": {
       "iconPath": "./icons/dart.svg"
-    },
-    "_file-iphone": {
-      "iconPath": "./icons/iphone.x.svg"
     },
     "_file-kotlin": {
       "iconPath": "./icons/kotlin.svg"
@@ -177,7 +171,9 @@
       "fontId": "SF-Pro"
     },
     "_file-license": {
-      "iconPath": "./icons/licence.svg"
+      "fontCharacter": "\\100664",
+      "fontColor": "#ffcc00",
+      "fontId": "SF-Pro"
     },
     "_file-minecraft": {
       "iconPath": "./icons/minecraft.svg"
@@ -234,9 +230,6 @@
     },
     "_folder-download": {
       "iconPath": "./icons/download-folder.svg"
-    },
-    "_folder-ex": {
-      "iconPath": "./icons/!.svg"
     },
     "_folder-fav": {
       "iconPath": "./icons/fav-folder.svg"
@@ -635,6 +628,16 @@
       "fontColor": "#0a84ff",
       "fontId": "SF-Pro"
     },
+    "_yaml": {
+      "fontCharacter": "\\1000ee",
+      "fontColor": "#af52de",
+      "fontId": "SF-Pro"
+    },
+    "_yaml_light": {
+      "fontCharacter": "\\1000ee",
+      "fontColor": "#bf5af2",
+      "fontId": "SF-Pro"
+    },
     "_zip": {
       "fontCharacter": "\\100927",
       "fontColor": "#ff3b30",
@@ -695,7 +698,7 @@
     "Pictures": "_folder-pic",
     "Product": "_folder-xcode",
     "Products": "_folder-xcode",
-    "scr": "_folder-scr",
+    "src": "_folder-src",
     "styles": "_folder-css",
     "theme": "_folder-themes",
     "themes": "_folder-themes",
@@ -763,8 +766,7 @@
     "webp": "_image",
     "xls": "_excel",
     "xlsx": "_excel",
-    "yaml": "_folder-ex",
-    "yml": "_file-ex",
+    "yaml": "_yaml",
     "zip": "_zip_1"
   },
   "fileNames": {

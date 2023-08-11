@@ -2,6 +2,10 @@
 
 > Never write "Updated `CHANGELOG.md`/ `trash` folder".
 
+## `1.2.1`
+
+* Added Panel and Sidebar icons.
+
 ## `1.2.0`
 
 * Update `account` icon in Production theme
@@ -12,7 +16,7 @@
 
 * Improved icon alignment
 
-* much more too long to write down :)
+* Bit too long to write down :)
 
 ## `1.1.5`
 

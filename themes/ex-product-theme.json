@@ -521,22 +521,25 @@
       "fontCharacter": "\\100062"
     },
     "panel-left": {
-      "fontCharacter": "\\100693"
+      "fontCharacter": "\\1003da"
     },
     "panel-left-off": {
-      "fontCharacter": "\\1003e0"
+      "fontCharacter": "\\1003da"
     },
     "panel-layout-icon": {
-      "fontCharacter": "\\100a9a"
+      "fontCharacter": "\\100ff0"
     },
     "panel-layout-icon-off": {
-      "fontCharacter": "\\100570"
+      "fontCharacter": "\\1009ca"
     },
     "auxiliarybar-right-layout-icon": {
-      "fontCharacter": "\\100694"
+      "fontCharacter": "\\1003db"
     },
     "auxiliarybar-right-off-layout-icon": {
-      "fontCharacter": "\\1003e0"
+      "fontCharacter": "\\1003db"
+    },
+    "configure-layout-icon": {
+      "fontCharacter": "\\100b04"
     },
     "pencil": {
       "fontCharacter": "\\10020a"
@@ -611,7 +614,7 @@
       "fontCharacter": "\\100148"
     },
     "remote": {
-      "fontCharacter": "\\100aac"
+      "fontCharacter": "\\1003b8"
     },
     "remove": {
       "fontCharacter": "\\10017d"
